@@ -1,0 +1,62 @@
+{
+  "id": "EE",
+  "name": "Estonia",
+  "description": {
+    "en": "Estonia observes a mix of national and regional public holidays that reflect its history, culture, and traditions. These holidays influence work schedules, school terms, travel plans, and the availability of public services."
+  },
+  "sections": [
+    {
+      "title": "About Estonia",
+      "content": "Estonia, officially the Republic of Estonia, is a country in the Baltic region of Northern Europe. It is bordered to the north by the Gulf of Finland across from Finland, to the west by the Baltic Sea across from Sweden, to the south by Latvia, and to the east by Russia. The territory of Estonia consists of the mainland, the larger islands of Saaremaa and Hiiumaa, and over 2,300 other islands and islets on the east coast of the Baltic Sea. Its capital city of Tallinn, along with the city of Tartu, are the country's two largest urban areas. The Estonian language, of the Finnic family, is the official language and the first language of the majority of nearly 1.4 million people. Estonia is one of the least populous member states of the European Union."
+    },
+    {
+      "title": "How Public Holidays Are Observed in Estonia",
+      "content": "On most public holidays in Estonia, government offices, schools, and banks are closed. Many private businesses also close or operate on reduced hours."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Estonia?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Estonia?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Estonia?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Estonia?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Estonia?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

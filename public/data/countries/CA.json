@@ -1,0 +1,73 @@
+{
+  "id": "CA",
+  "name": "Canada",
+  "description": {
+    "en": "Canada observes several statutory public holidays each year that reflect its national history, bilingual identity, multicultural values, and respect for workers and veterans. These holidays influence government services, school calendars, banking operations, and workplace schedules across the country.",
+    "es": "CanadÃ¡ observa varios dÃ­as festivos estatutarios cada aÃ±o que reflejan su historia nacional, identidad bilingÃ¼e, valores multiculturales y respeto por los trabajadores y veteranos. Estos dÃ­as festivos influyen en los servicios gubernamentales, calendarios escolares, operaciones bancarias y horarios laborales en todo el paÃ­s.",
+    "fr": "Le Canada observe plusieurs jours fÃ©riÃ©s lÃ©gaux chaque annÃ©e qui reflÃ¨tent son histoire nationale, son identitÃ© bilingue, ses valeurs multiculturelles et son respect pour les travailleurs et les anciens combattants. Ces jours fÃ©riÃ©s influencent les services gouvernementaux, les calendriers scolaires, les opÃ©rations bancaires et les horaires de travail Ã  travers le pays.",
+    "de": "Kanada beobachtet mehrere gesetzliche Feiertage pro Jahr, die seine nationale Geschichte, zweisprachige IdentitÃ¤t, multikulturelle Werte und Respekt fÃ¼r Arbeiter und Veteranen widerspiegeln. Diese Feiertage beeinflussen Regierungsdienste, Schulkalender, BankgeschÃ¤fte und Arbeitszeiten im ganzen Land.",
+    "pt": "O CanadÃ¡ observa vÃ¡rios feriados pÃºblicos estatutÃ¡rios a cada ano que refletem sua histÃ³ria nacional, identidade bilÃ­ngue, valores multiculturais e respeito por trabalhadores e veteranos. Esses feriados influenciam serviÃ§os governamentais, calendÃ¡rios escolares, operaÃ§Ãµes bancÃ¡rias e horÃ¡rios de trabalho em todo o paÃ­s.",
+    "zh": "åŠ æ‹¿å¤§æ¯å¹´åº†ç¥å‡ ä¸ªæ³•å®šå…¬å…±å‡æ—¥ï¼Œåæ˜ å…¶å›½å®¶åŽ†å²ã€åŒè¯­èº«ä»½ã€å¤šå…ƒæ–‡åŒ–ä»·å€¼è§‚ä»¥åŠå¯¹å·¥äººå’Œé€€ä¼å†›äººçš„å°Šé‡ã€‚è¿™äº›å‡æ—¥å½±å“å…¨å›½çš„æ”¿åºœæœåŠ¡ã€å­¦æ ¡æ—¥åŽ†ã€é“¶è¡Œä¸šåŠ¡å’Œå·¥ä½œæ—¶é—´è¡¨ã€‚",
+    "ar": "ØªØ­ØªÙÙ„ ÙƒÙ†Ø¯Ø§ Ø¨Ø¹Ø¯Ø© Ø£ÙŠØ§Ù… Ø¹Ø·Ù„Ø© Ø±Ø³Ù…ÙŠØ© Ù‚Ø§Ù†ÙˆÙ†ÙŠØ© ÙƒÙ„ Ø¹Ø§Ù… ØªØ¹ÙƒØ³ ØªØ§Ø±ÙŠØ®Ù‡Ø§ Ø§Ù„ÙˆØ·Ù†ÙŠ ÙˆÙ‡ÙˆÙŠØªÙ‡Ø§ Ø«Ù†Ø§Ø¦ÙŠØ© Ø§Ù„Ù„ØºØ© ÙˆÙ‚ÙŠÙ…Ù‡Ø§ Ù…ØªØ¹Ø¯Ø¯Ø© Ø§Ù„Ø«Ù‚Ø§ÙØ§Øª ÙˆØ§Ø­ØªØ±Ø§Ù…Ù‡Ø§ Ù„Ù„Ø¹Ù…Ø§Ù„ ÙˆØ§Ù„Ù…Ø­Ø§Ø±Ø¨ÙŠÙ† Ø§Ù„Ù‚Ø¯Ø§Ù…Ù‰. ØªØ¤Ø«Ø± Ù‡Ø°Ù‡ Ø§Ù„Ø¹Ø·Ù„Ø§Øª Ø¹Ù„Ù‰ Ø§Ù„Ø®Ø¯Ù…Ø§Øª Ø§Ù„Ø­ÙƒÙˆÙ…ÙŠØ© ÙˆØ§Ù„ØªÙ‚ÙˆÙŠÙ…Ø§Øª Ø§Ù„Ù…Ø¯Ø±Ø³ÙŠØ© ÙˆØ§Ù„Ø¹Ù…Ù„ÙŠØ§Øª Ø§Ù„Ù…ØµØ±ÙÙŠØ© ÙˆØ¬Ø¯Ø§ÙˆÙ„ Ø§Ù„Ø¹Ù…Ù„ ÙÙŠ Ø¬Ù…ÙŠØ¹ Ø£Ù†Ø­Ø§Ø¡ Ø§Ù„Ø¨Ù„Ø§Ø¯.",
+    "ja": "ã‚«ãƒŠãƒ€ã¯æ¯Žå¹´ã„ãã¤ã‹ã®æ³•å®šç¥æ—¥ã‚’å®šã‚ã¦ãŠã‚Šã€ã“ã‚Œã‚‰ã¯å›½ã®æ­´å²ã€äºŒè¨€èªžã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ã€å¤šæ–‡åŒ–çš„ä¾¡å€¤è¦³ã€åŠ´åƒè€…ã¨é€€å½¹è»äººã¸ã®æ•¬æ„ã‚’åæ˜ ã—ã¦ã„ã¾ã™ã€‚ã“ã‚Œã‚‰ã®ç¥æ—¥ã¯ã€å…¨å›½ã®æ”¿åºœã‚µãƒ¼ãƒ“ã‚¹ã€å­¦æ ¡ã‚«ãƒ¬ãƒ³ãƒ€ãƒ¼ã€éŠ€è¡Œæ¥­å‹™ã€è·å ´ã®ã‚¹ã‚±ã‚¸ãƒ¥ãƒ¼ãƒ«ã«å½±éŸ¿ã‚’ä¸Žãˆã¾ã™ã€‚"
+  },
+  "sections": [
+    {
+      "title": "About Canada",
+      "content": "Canada is a country in North America. Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean, making it the second-largest country by total area, with the longest coastline of any country. Its border with the United States is the longest international land border. The country is characterized by a wide range of both meteorologic and geological regions. With a population of over 41 million, it has widely varying population densities, with the majority residing in its urban areas and large areas being sparsely populated. Its capital is Ottawa and its three largest metropolitan areas are Toronto, Montreal, and Vancouver."
+    },
+    {
+      "title": "How Public Holidays Are Observed in Canada",
+      "content": "On statutory public holidays, federal and provincial government offices are closed. Banks and many private businesses also close or operate on reduced hours. Schools typically close nationwide, though retail observance rules vary by province."
+    },
+    {
+      "title": "Why Canadaâ€™s Public Holidays Matter",
+      "content": "Knowning Canadaâ€™s public holidays assists with business operations, payroll planning, and academic scheduling. It is also vital for travel and accommodation planning, as well as managing official deadlines."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Canada?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Canada?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Canada?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Canada?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Canada?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

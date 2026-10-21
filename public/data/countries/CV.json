@@ -1,0 +1,62 @@
+{
+  "id": "CV",
+  "name": "Cabo Verde",
+  "description": {
+    "en": "Cabo Verde observes a mix of national and religious public holidays that reflect its history, culture, and diverse traditions. These holidays influence work schedules, school terms, travel plans, and the availability of public services."
+  },
+  "sections": [
+    {
+      "title": "About Cabo Verde",
+      "content": "Cape Verde or Cabo Verde, officially the Republic of Cabo Verde, is an archipelagic country in the central Atlantic Ocean off the coast of West Africa. It consists of ten volcanic islands with a combined land area of about 4,033 square kilometres (1,557 sq mi). These islands lie between 600 and 850 kilometres west of Cap-Vert, the westernmost point of continental Africa, after which they are named. Cape Verde forms part of the Macaronesia ecoregion, along with the Azores, the Canary Islands, Madeira and the Savage Isles."
+    },
+    {
+      "title": "How Public Holidays Are Observed in Cabo Verde",
+      "content": "On most public holidays in Cabo Verde, government offices, schools, and banks are closed. Many private businesses also close or operate on reduced hours."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Cabo Verde?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Cabo Verde?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Cabo Verde?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Cabo Verde?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Cabo Verde?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

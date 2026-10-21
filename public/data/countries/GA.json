@@ -1,0 +1,66 @@
+{
+  "id": "GA",
+  "name": "Gabon",
+  "description": {
+    "en": "Gabon observes several public holidays that mark key moments in its political development, women's and workers' rights, and Christian celebrations. These official holidays impact commercial schedules and public service availability across the nation."
+  },
+  "sections": [
+    {
+      "title": "About Gabon",
+      "content": "Gabon, officially the Gabonese Republic, is a country on the Atlantic coast of Central Africa, on the equator, bordered by Equatorial Guinea to the northwest, Cameroon to the north, the Republic of the Congo to the east and south, and the Gulf of Guinea to the west. It has an area of 270,000 square kilometres (100,000 sq mi) and a population of 2.3 million people. There are coastal plains, mountains, and a savanna in the east. Libreville is the country's capital and largest city."
+    },
+    {
+      "title": "How Public Holidays Are Observed in Gabon",
+      "content": "On public holidays, government offices and public schools are closed, and banks/financial institutions typically close. Private businesses may operate reduced hours. Travel activity often increases around major religious and national holidays."
+    },
+    {
+      "title": "Why Gabon’s Public Holidays Matter",
+      "content": "Knowing Gabon’s public holidays helps with business planning and payroll management, school and academic scheduling, and travel/accommodation planning. Both residents and visitors benefit from understanding when services may be unavailable."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Gabon?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Gabon?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Gabon?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Gabon?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Gabon?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

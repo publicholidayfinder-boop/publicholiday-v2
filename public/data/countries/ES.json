@@ -1,0 +1,62 @@
+{
+  "id": "ES",
+  "name": "Spain",
+  "description": {
+    "en": "Spain observes a mix of national and regional public holidays that reflect its history, culture, and traditions. These holidays influence work schedules, school terms, travel plans, and the availability of public services."
+  },
+  "sections": [
+    {
+      "title": "About Spain",
+      "content": "Spain, officially the Kingdom of Spain, is a country in Southern and Western Europe with territories in North Africa. Featuring the southernmost point of continental Europe, it is the largest country in Southern Europe and the fourth-most populous European Union (EU) member state. Spanning the majority of the Iberian Peninsula, its territory also includes the Canary Islands, in the Eastern Atlantic Ocean; the Balearic Islands, in the Western Mediterranean Sea; and the autonomous cities of Ceuta and Melilla, in mainland Africa. Peninsular Spain is bordered to the north by France, Andorra, and the Bay of Biscay; to the east and south by the Mediterranean Sea and Gibraltar and Morocco, through its exclaves in North Africa; and to the west by Portugal and the Atlantic Ocean. Spain's capital and largest city is Madrid; other major urban areas include Barcelona, Valencia, Seville, Zaragoza, Málaga, Murcia, and Palma de Mallorca."
+    },
+    {
+      "title": "How Public Holidays Are Observed in Spain",
+      "content": "On most public holidays in Spain, government offices, schools, and banks are closed. Many private businesses also close or operate on reduced hours."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Spain?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Spain?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Spain?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Spain?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Spain?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "NA",
+  "name": "Namibia",
+  "description": {
+    "en": "Namibia observes a range of public holidays reflecting its national history, culture, and traditions. These holidays affect work schedules, school terms, and travel plans across the country."
+  },
+  "sections": [
+    {
+      "title": "About Namibia",
+      "content": "Namibia, officially the Republic of Namibia, is a country in Southern Africa. It borders the Atlantic Ocean to the west, Angola and Zambia to the north, Botswana to the east and South Africa to the south; in the northeast, approximating a quadripoint, Zimbabwe lies less than 200 metres away along the Zambezi river near Kazungula, Zambia. Namibia's capital and largest city is Windhoek."
+    },
+    {
+      "title": "Important Notice",
+      "content": "Public holiday dates and observance rules can change, especially when holidays fall on weekends. Always confirm critical dates with official Namibia government sources when planning travel, payroll, or business operations."
+    },
+    {
+      "title": "How Namibia's Public Holidays Are Observed",
+      "content": "On most public and bank holidays:\n\nBanks and government offices are closed.\nSchools are closed.\nSome businesses operate reduced hours.\nPublic transport and retail services may run modified schedules.\nPrivate businesses are not legally required to close but often adjust operating hours."
+    },
+    {
+      "title": "Why Namibia's Public Holidays Matter",
+      "content": "Understanding Namibia's public holidays helps with:\n\nBusiness and payroll planning.\nSchool and academic scheduling.\nTravel and accommodation planning.\nAvoiding service disruptions.\nBoth residents and visitors benefit from knowing when closures and peak travel periods are likely."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Namibia?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Namibia?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Namibia?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Namibia?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Namibia?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

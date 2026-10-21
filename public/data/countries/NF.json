@@ -1,0 +1,62 @@
+{
+  "id": "NF",
+  "name": "Norfolk Island",
+  "description": {
+    "en": "Discover public holidays, national days, and regional observances in Norfolk Island. Plan your travels and schedule around the official holiday calendar."
+  },
+  "sections": [
+    {
+      "title": "About Norfolk Island",
+      "content": "Norfolk Island observes a unique calendar of public holidays shaped by its Pacific heritage, colonial history, and national traditions. Official public holidays are gazetted by the government and observed nationwide."
+    },
+    {
+      "title": "How Public Holidays Are Observed",
+      "content": "On public holidays in Norfolk Island, schools, government offices, and most private businesses are typically closed. Public transport may operate on a reduced schedule. Essential services remain operational."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are shops open on public holidays in Norfolk Island?"
+          },
+          "a": {
+            "en": "Many large retail stores and supermarkets may operate on reduced hours on public holidays, while smaller independent shops usually close. It is advisable to check ahead."
+          }
+        },
+        {
+          "q": {
+            "en": "How are weekends handled for public holidays?"
+          },
+          "a": {
+            "en": "If a public holiday falls on a weekend, Norfolk Island generally observes a substitute weekday holiday, typically the following Monday, though this depends on specific legislation."
+          }
+        },
+        {
+          "q": {
+            "en": "Is public transport available on holidays?"
+          },
+          "a": {
+            "en": "Public transportation usually runs on a Sunday or reduced holiday timetable. Check local transit authority websites before traveling on public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "What is the most important holiday in Norfolk Island?"
+          },
+          "a": {
+            "en": "Key public holidays typically include New Year's Day, significant national or independence days, and major religious observances like Christmas and Easter."
+          }
+        },
+        {
+          "q": {
+            "en": "Do public holidays affect banking?"
+          },
+          "a": {
+            "en": "Yes, banks are closed on all gazetted public holidays. ATMs and online banking remain available, but physical branch services are suspended."
+          }
+        }
+      ]
+    }
+  ]
+}

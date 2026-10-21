@@ -1,0 +1,62 @@
+{
+  "id": "RO",
+  "name": "Romania",
+  "description": {
+    "en": "Romania observes a mix of national and regional public holidays that reflect its history, culture, and traditions. These holidays influence work schedules, school terms, travel plans, and the availability of public services."
+  },
+  "sections": [
+    {
+      "title": "About Romania",
+      "content": "Romania is a country in Southeast and Central Europe. It lies on the lower course of the Danube, north of the Balkan Peninsula, and on the northwestern shore of the Black Sea. It borders Ukraine to the north and east, Hungary to the west, Serbia to the southwest, Bulgaria to the south, Moldova to the east, and the Black Sea to the southeast. It is the twelfth-largest country in Europe by area, covering 238,397 km2 (92,046 mi2), and the sixth-most populous member state of the European Union, with 19 million inhabitants. The capital, largest city and economic centre is Bucharest. Other major cities include Cluj-Napoca, Iași, Constanța, Timișoara and Brașov."
+    },
+    {
+      "title": "How Public Holidays Are Observed in Romania",
+      "content": "On most public holidays in Romania, government offices, schools, and banks are closed. Many private businesses also close or operate on reduced hours."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Romania?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Romania?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Romania?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Romania?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Romania?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

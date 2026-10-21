@@ -1,0 +1,19 @@
+{
+  "id": "SH",
+  "name": "Saint Helena",
+  "slug": "saint-helena",
+  "flag": "🇸🇭",
+  "description": "In Saint Helena, public holidays are celebrated throughout the year. These include statutory national holidays, regional observances, and important cultural or religious festivals where businesses and schools may be closed.",
+  "sections": [
+    {
+      "title": "About Saint Helena Public Holidays",
+      "content": "Saint Helena observes several statutory and public holidays. Depending on the specific holiday and local regulations, government offices, banks, and many private businesses may close. Some holidays are celebrated on fixed dates, while others are movable and depend on lunar or religious calendars."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many public holidays does Saint Helena have?",
+      "answer": "The exact number of public holidays in Saint Helena can vary from year to year, depending on how movable holidays and weekend substitutions fall on the calendar."
+    }
+  ]
+}

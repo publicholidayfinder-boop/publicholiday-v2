@@ -1,0 +1,77 @@
+{
+  "id": "FR",
+  "name": "France",
+  "description": {
+    "en": "France observes a range of public holidays shaped by revolutionary history, Christian traditions, and national remembrance. These holidays affect work schedules, school calendars, government services, and travel across the country. Most public holidays are observed nationwide, with businesses and public institutions typically closed or operating reduced hours.",
+    "es": "Francia observa una variedad de dÃ­as festivos moldeados por la historia revolucionaria, las tradiciones cristianas y el recuerdo nacional. Estos dÃ­as festivos afectan los horarios de trabajo, los calendarios escolares, los servicios gubernamentales y los viajes en todo el paÃ­s. La mayorÃ­a de los dÃ­as festivos se observan a nivel nacional, con empresas e instituciones pÃºblicas tÃ­picamente cerradas o operando con horarios reducidos.",
+    "fr": "La France observe une gamme de jours fÃ©riÃ©s faÃ§onnÃ©s par l'histoire rÃ©volutionnaire, les traditions chrÃ©tiennes et la commÃ©moration nationale. Ces jours fÃ©riÃ©s affectent les horaires de travail, les calendriers scolaires, les services gouvernementaux et les voyages Ã  travers le pays. La plupart des jours fÃ©riÃ©s sont observÃ©s Ã  l'Ã©chelle nationale, les entreprises et les institutions publiques Ã©tant gÃ©nÃ©ralement fermÃ©es ou fonctionnant Ã  horaires rÃ©duits.",
+    "de": "Frankreich beobachtet eine Reihe von Feiertagen, die von revolutionÃ¤rer Geschichte, christlichen Traditionen und nationalem Gedenken geprÃ¤gt sind. Diese Feiertage beeinflussen Arbeitszeiten, Schulkalender, Regierungsdienste und Reisen im ganzen Land. Die meisten Feiertage werden landesweit beobachtet, wobei Unternehmen und Ã¶ffentliche Einrichtungen in der Regel geschlossen sind oder mit reduzierten Ã–ffnungszeiten arbeiten.",
+    "pt": "A FranÃ§a observa uma variedade de feriados moldados pela histÃ³ria revolucionÃ¡ria, tradiÃ§Ãµes cristÃ£s e lembranÃ§a nacional. Esses feriados afetam horÃ¡rios de trabalho, calendÃ¡rios escolares, serviÃ§os governamentais e viagens em todo o paÃ­s. A maioria dos feriados Ã© observada nacionalmente, com empresas e instituiÃ§Ãµes pÃºblicas tipicamente fechadas ou operando com horÃ¡rios reduzidos.",
+    "zh": "æ³•å›½åº†ç¥ç”±é©å‘½åŽ†å²ã€åŸºç£æ•™ä¼ ç»Ÿå’Œå›½å®¶çºªå¿µå¡‘é€ çš„ä¸€ç³»åˆ—å…¬å…±å‡æ—¥ã€‚è¿™äº›å‡æ—¥å½±å“å…¨å›½çš„å·¥ä½œæ—¶é—´è¡¨ã€å­¦æ ¡æ—¥åŽ†ã€æ”¿åºœæœåŠ¡å’Œæ—…è¡Œã€‚å¤§å¤šæ•°å…¬å…±å‡æ—¥åœ¨å…¨å›½èŒƒå›´å†…åº†ç¥ï¼Œä¼ä¸šå’Œå…¬å…±æœºæž„é€šå¸¸å…³é—­æˆ–ç¼©çŸ­è¥ä¸šæ—¶é—´ã€‚",
+    "ar": "ØªØ­ØªÙÙ„ ÙØ±Ù†Ø³Ø§ Ø¨Ù…Ø¬Ù…ÙˆØ¹Ø© Ù…Ù† Ø§Ù„Ø£Ø¹ÙŠØ§Ø¯ Ø§Ù„Ø¹Ø§Ù…Ø© Ø§Ù„ØªÙŠ Ø´ÙƒÙ„Ù‡Ø§ Ø§Ù„ØªØ§Ø±ÙŠØ® Ø§Ù„Ø«ÙˆØ±ÙŠ ÙˆØ§Ù„ØªÙ‚Ø§Ù„ÙŠØ¯ Ø§Ù„Ù…Ø³ÙŠØ­ÙŠØ© ÙˆØ§Ù„Ø°ÙƒØ±Ù‰ Ø§Ù„ÙˆØ·Ù†ÙŠØ©. ØªØ¤Ø«Ø± Ù‡Ø°Ù‡ Ø§Ù„Ø¹Ø·Ù„Ø§Øª Ø¹Ù„Ù‰ Ø¬Ø¯Ø§ÙˆÙ„ Ø§Ù„Ø¹Ù…Ù„ ÙˆØ§Ù„ØªÙ‚ÙˆÙŠÙ…Ø§Øª Ø§Ù„Ù…Ø¯Ø±Ø³ÙŠØ© ÙˆØ§Ù„Ø®Ø¯Ù…Ø§Øª Ø§Ù„Ø­ÙƒÙˆÙ…ÙŠØ© ÙˆØ§Ù„Ø³ÙØ± ÙÙŠ Ø¬Ù…ÙŠØ¹ Ø£Ù†Ø­Ø§Ø¡ Ø§Ù„Ø¨Ù„Ø§Ø¯. ÙŠØªÙ… Ø§Ù„Ø§Ø­ØªÙØ§Ù„ Ø¨Ù…Ø¹Ø¸Ù… Ø§Ù„Ø¹Ø·Ù„Ø§Øª Ø§Ù„Ø¹Ø§Ù…Ø© Ø¹Ù„Ù‰ Ø§Ù„ØµØ¹ÙŠØ¯ Ø§Ù„ÙˆØ·Ù†ÙŠØŒ Ø­ÙŠØ« ØªÙƒÙˆÙ† Ø§Ù„Ø´Ø±ÙƒØ§Øª ÙˆØ§Ù„Ù…Ø¤Ø³Ø³Ø§Øª Ø§Ù„Ø¹Ø§Ù…Ø© Ù…ØºÙ„Ù‚Ø© Ø¹Ø§Ø¯Ø©Ù‹ Ø£Ùˆ ØªØ¹Ù…Ù„ Ø¨Ø³Ø§Ø¹Ø§Øª Ù…Ø®ÙØ¶Ø©.",
+    "ja": "ãƒ•ãƒ©ãƒ³ã‚¹ã¯ã€é©å‘½ã®æ­´å²ã€ã‚­ãƒªã‚¹ãƒˆæ•™ã®ä¼çµ±ã€å›½å®¶ã®è¿½æ‚¼ã«ã‚ˆã£ã¦å½¢ä½œã‚‰ã‚ŒãŸä¸€é€£ã®ç¥æ—¥ã‚’å®šã‚ã¦ã„ã¾ã™ã€‚ã“ã‚Œã‚‰ã®ç¥æ—¥ã¯ã€å…¨å›½ã®å‹¤å‹™ã‚¹ã‚±ã‚¸ãƒ¥ãƒ¼ãƒ«ã€å­¦æ ¡ã‚«ãƒ¬ãƒ³ãƒ€ãƒ¼ã€æ”¿åºœã‚µãƒ¼ãƒ“ã‚¹ã€æ—…è¡Œã«å½±éŸ¿ã‚’ä¸Žãˆã¾ã™ã€‚ã»ã¨ã‚“ã©ã®ç¥æ—¥ã¯å…¨å›½çš„ã«è¦³å¯Ÿã•ã‚Œã€ä¼æ¥­ã‚„å…¬å…±æ©Ÿé–¢ã¯é€šå¸¸é–‰éŽ–ã•ã‚Œã¦ã„ã‚‹ã‹ã€å–¶æ¥­æ™‚é–“ãŒçŸ­ç¸®ã•ã‚Œã¦ã„ã¾ã™ã€‚"
+  },
+  "sections": [
+    {
+      "title": "About France",
+      "content": "France, officially the French Republic, is a country primarily located in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean. Metropolitan France shares borders with Belgium and Luxembourg to the north; Germany to the northeast; Switzerland to the east; Italy and Monaco to the southeast; Andorra and Spain to the south; and a maritime border with the United Kingdom to the northwest. Its metropolitan area extends from the Rhine to the Atlantic Ocean and from the Mediterranean Sea to the English Channel and the North Sea. Its 18 integral regions—five of which are overseas—span a combined area of 632,702 km2 (244,288 sq mi), with a total population estimated at over 69.1 million in 2026. Its capital, largest city and main cultural and economic centre is Paris."
+    },
+    {
+      "title": "Important Notice",
+      "content": "Public holiday observance may vary by sector, region, or employer. Always confirm critical dates with official French government sources when planning travel, payroll, or business operations."
+    },
+    {
+      "title": "How Public Holidays Are Observed in France",
+      "content": "On most public holidays:\n\nGovernment offices and schools are closed.\nBanks are closed.\nMany businesses close or operate reduced hours.\nPublic transport may run on holiday schedules.\nLabour Day (May 1) is the most strictly observed closure nationwide."
+    },
+    {
+      "title": "Why French Public Holidays Matter",
+      "content": "Knowing Franceâ€™s public holidays helps with:\n\nBusiness and payroll planning.\nTravel and accommodation scheduling.\nSchool calendar coordination.\nAvoiding service disruptions.\nBoth residents and visitors benefit from understanding national closure patterns."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in France?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in France?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in France?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in France?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in France?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

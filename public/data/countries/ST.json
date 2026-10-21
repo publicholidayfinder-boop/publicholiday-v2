@@ -1,0 +1,66 @@
+{
+  "id": "ST",
+  "name": "São Tomé and Príncipe",
+  "description": {
+    "en": "São Tomé and Príncipe observes national public holidays that celebrate its liberation from colonial rule, agricultural reforms, and cultural history. These holidays are observed across the archipelago's islands."
+  },
+  "sections": [
+    {
+      "title": "About São Tomé and Príncipe",
+      "content": "São Tomé and Príncipe, officially the Democratic Republic of Sao Tome and Principe, is an island country in the Gulf of Guinea, off the western equatorial coast of Central Africa. It consists of two archipelagos around the two main islands of São Tomé and Príncipe, about 81 nautical miles apart and about 135 and 121 nautical miles off the northwestern coast of Gabon. With a population of 201,800, São Tomé and Príncipe is the second-smallest and second-least populous African sovereign state after Seychelles."
+    },
+    {
+      "title": "How Public Holidays Are Observed in São Tomé and Príncipe",
+      "content": "On public holidays, government offices and public schools are closed, and banks/financial institutions typically close. Private businesses may operate reduced hours. Travel activity often increases around major religious and national holidays."
+    },
+    {
+      "title": "Why São Tomé and Príncipe’s Public Holidays Matter",
+      "content": "Knowing São Tomé and Príncipe’s public holidays helps with business planning and payroll management, school and academic scheduling, and travel/accommodation planning. Both residents and visitors benefit from understanding when services may be unavailable."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in São Tomé and Príncipe?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in São Tomé and Príncipe?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in São Tomé and Príncipe?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in São Tomé and Príncipe?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in São Tomé and Príncipe?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

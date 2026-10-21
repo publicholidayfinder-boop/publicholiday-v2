@@ -1,0 +1,70 @@
+{
+  "id": "VN",
+  "name": "Vietnam",
+  "description": {
+    "en": "Vietnam observes public holidays that mark important national milestones and traditional celebrations reflecting the country's history and cultural identity."
+  },
+  "sections": [
+    {
+      "title": "About Vietnam",
+      "content": "Vietnam, officially the Socialist Republic of Viet Nam (SRV), is a country at the eastern edge of Mainland Southeast Asia. With an area of about 331,000 square kilometres and a population of over 102 million, it is the world's 16th-most populous country. One of two communist states in Southeast Asia, Vietnam is bordered by China to the north, and Laos and Cambodia to the west; it lies along the Gulf of Thailand to the southwest and the South China Sea to the east, where it has shared and disputed maritime borders with other countries. Its capital is Hanoi, while its largest city is Ho Chi Minh City."
+    },
+    {
+      "title": "Important Notice",
+      "content": "Public holiday dates and observance rules can change, especially when holidays fall on weekends. Always confirm critical dates with official Vietnam government sources when planning travel, payroll, or business operations."
+    },
+    {
+      "title": "How Vietnam's Public Holidays Are Observed",
+      "content": "On most public and bank holidays:\n\nBanks and government offices are closed.\nSchools are closed.\nSome businesses operate reduced hours.\nPublic transport and retail services may run modified schedules.\nPrivate businesses are not legally required to close but often adjust operating hours."
+    },
+    {
+      "title": "Why Vietnam's Public Holidays Matter",
+      "content": "Understanding Vietnam public holidays helps with:\n\nBusiness and payroll planning.\nSchool and academic scheduling.\nTravel and accommodation planning.\nAvoiding service disruptions.\nBoth residents and visitors benefit from knowing when closures and peak travel periods are likely."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Vietnam?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Vietnam?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Vietnam?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Vietnam?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Vietnam?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

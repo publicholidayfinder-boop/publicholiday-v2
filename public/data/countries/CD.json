@@ -1,0 +1,66 @@
+{
+  "id": "CD",
+  "name": "Democratic Republic of the Congo",
+  "description": {
+    "en": "The Democratic Republic of the Congo observes statutory public holidays that commemorate key political leaders, historical transitions, and national struggles, alongside major religious events. These holidays are observed nationwide by schools and businesses."
+  },
+  "sections": [
+    {
+      "title": "About Democratic Republic of the Congo",
+      "content": "The Democratic Republic of the Congo (DRC), also known as the DR Congo, Congo-Kinshasa, or simply the Congo or less often Zaire, is a country in Central Africa. By land area, it is the second-largest country in Africa and the eleventh-largest in the world. With a population of around 124 million people, the Democratic Republic of the Congo is the fourth-most populous country in Africa and the most populous Francophone country in the world. French is the official and most widely spoken language, though there are over 200 indigenous languages, of which Lingala is the most widely spoken. The capital, largest city, and economic center is Kinshasa. The DRC is bordered by the Republic of the Congo, the Cabinda exclave of Angola, and the South Atlantic Ocean to the west; the Central African Republic and South Sudan to the north; Uganda, Rwanda, Burundi, and Tanzania to the east; and Zambia and Angola to the south. Centered on the Congo Basin, most of the country's terrain is covered by dense rainforests and is crossed by many rivers, while the east and southeast are mountainous."
+    },
+    {
+      "title": "How Public Holidays Are Observed in Democratic Republic of the Congo",
+      "content": "On public holidays, government offices and public schools are closed, and banks/financial institutions typically close. Private businesses may operate reduced hours. Travel activity often increases around major religious and national holidays."
+    },
+    {
+      "title": "Why Democratic Republic of the Congo’s Public Holidays Matter",
+      "content": "Knowing Democratic Republic of the Congo’s public holidays helps with business planning and payroll management, school and academic scheduling, and travel/accommodation planning. Both residents and visitors benefit from understanding when services may be unavailable."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Democratic Republic of the Congo?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Democratic Republic of the Congo?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Democratic Republic of the Congo?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Democratic Republic of the Congo?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Democratic Republic of the Congo?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

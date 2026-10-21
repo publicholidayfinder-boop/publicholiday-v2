@@ -1,0 +1,77 @@
+{
+  "id": "DE",
+  "name": "Germany",
+  "description": {
+    "en": "Germany observes a mix of national and regional public holidays that reflect its history, Christian traditions, labor movement, and federal structure. While some holidays apply nationwide, many are observed only in specific federal states (BundeslÃ¤nder), making local context especially important.",
+    "es": "Alemania observa una combinaciÃ³n de dÃ­as festivos nacionales y regionales que reflejan su historia, tradiciones cristianas, movimiento laboral y estructura federal. Si bien algunos dÃ­as festivos se aplican a nivel nacional, muchos se observan solo en estados federales especÃ­ficos (BundeslÃ¤nder), lo que hace que el contexto local sea especialmente importante.",
+    "fr": "L'Allemagne observe un mÃ©lange de jours fÃ©riÃ©s nationaux et rÃ©gionaux qui reflÃ¨tent son histoire, ses traditions chrÃ©tiennes, son mouvement ouvrier et sa structure fÃ©dÃ©rale. Alors que certains jours fÃ©riÃ©s s'appliquent Ã  l'Ã©chelle nationale, beaucoup ne sont observÃ©s que dans des Ã‰tats fÃ©dÃ©raux spÃ©cifiques (BundeslÃ¤nder), ce qui rend le contexte local particuliÃ¨rement important.",
+    "de": "Deutschland beobachtet eine Mischung aus nationalen und regionalen Feiertagen, die seine Geschichte, christliche Traditionen, Arbeiterbewegung und fÃ¶derale Struktur widerspiegeln. WÃ¤hrend einige Feiertage bundesweit gelten, werden viele nur in bestimmten BundeslÃ¤ndern beobachtet, was den lokalen Kontext besonders wichtig macht.",
+    "pt": "A Alemanha observa uma mistura de feriados nacionais e regionais que refletem sua histÃ³ria, tradiÃ§Ãµes cristÃ£s, movimento trabalhista e estrutura federal. Embora alguns feriados se apliquem nacionalmente, muitos sÃ£o observados apenas em estados federais especÃ­ficos (BundeslÃ¤nder), tornando o contexto local especialmente importante.",
+    "zh": "å¾·å›½åº†ç¥å›½å®¶å’Œåœ°åŒºå…¬å…±å‡æ—¥çš„æ··åˆï¼Œåæ˜ å…¶åŽ†å²ã€åŸºç£æ•™ä¼ ç»Ÿã€åŠ³å·¥è¿åŠ¨å’Œè”é‚¦ç»“æž„ã€‚è™½ç„¶ä¸€äº›å‡æ—¥é€‚ç”¨äºŽå…¨å›½ï¼Œä½†è®¸å¤šå‡æ—¥ä»…åœ¨ç‰¹å®šçš„è”é‚¦å·žï¼ˆBundeslÃ¤nderï¼‰åº†ç¥ï¼Œè¿™ä½¿å¾—åœ°æ–¹èƒŒæ™¯ç‰¹åˆ«é‡è¦ã€‚",
+    "ar": "ØªØ­ØªÙÙ„ Ø£Ù„Ù…Ø§Ù†ÙŠØ§ Ø¨Ù…Ø²ÙŠØ¬ Ù…Ù† Ø§Ù„Ø£Ø¹ÙŠØ§Ø¯ Ø§Ù„ÙˆØ·Ù†ÙŠØ© ÙˆØ§Ù„Ø¥Ù‚Ù„ÙŠÙ…ÙŠØ© Ø§Ù„ØªÙŠ ØªØ¹ÙƒØ³ ØªØ§Ø±ÙŠØ®Ù‡Ø§ ÙˆØ§Ù„ØªÙ‚Ø§Ù„ÙŠØ¯ Ø§Ù„Ù…Ø³ÙŠØ­ÙŠØ© ÙˆØ­Ø±ÙƒØ© Ø§Ù„Ø¹Ù…Ø§Ù„ ÙˆØ§Ù„Ù‡ÙŠÙƒÙ„ Ø§Ù„ÙÙŠØ¯Ø±Ø§Ù„ÙŠ. ÙÙŠ Ø­ÙŠÙ† ØªÙ†Ø·Ø¨Ù‚ Ø¨Ø¹Ø¶ Ø§Ù„Ø¹Ø·Ù„Ø§Øª Ø¹Ù„Ù‰ Ø§Ù„ØµØ¹ÙŠØ¯ Ø§Ù„ÙˆØ·Ù†ÙŠØŒ ÙŠØªÙ… Ø§Ù„Ø§Ø­ØªÙØ§Ù„ Ø¨Ø§Ù„Ø¹Ø¯ÙŠØ¯ Ù…Ù†Ù‡Ø§ ÙÙ‚Ø· ÙÙŠ ÙˆÙ„Ø§ÙŠØ§Øª ÙÙŠØ¯Ø±Ø§Ù„ÙŠØ© Ù…Ø­Ø¯Ø¯Ø© (BundeslÃ¤nder)ØŒ Ù…Ù…Ø§ ÙŠØ¬Ø¹Ù„ Ø§Ù„Ø³ÙŠØ§Ù‚ Ø§Ù„Ù…Ø­Ù„ÙŠ Ù…Ù‡Ù…Ù‹Ø§ Ø¨Ø´ÙƒÙ„ Ø®Ø§Øµ.",
+    "ja": "ãƒ‰ã‚¤ãƒ„ã¯ã€ãã®æ­´å²ã€ã‚­ãƒªã‚¹ãƒˆæ•™ã®ä¼çµ±ã€åŠ´åƒé‹å‹•ã€é€£é‚¦æ§‹é€ ã‚’åæ˜ ã™ã‚‹å›½æ°‘çš„ãŠã‚ˆã³åœ°åŸŸçš„ç¥æ—¥ã®çµ„ã¿åˆã‚ã›ã‚’å®šã‚ã¦ã„ã¾ã™ã€‚ä¸€éƒ¨ã®ç¥æ—¥ã¯å…¨å›½çš„ã«é©ç”¨ã•ã‚Œã¾ã™ãŒã€å¤šãã¯ç‰¹å®šã®é€£é‚¦å·žï¼ˆBundeslÃ¤nderï¼‰ã§ã®ã¿è¦³å¯Ÿã•ã‚Œã‚‹ãŸã‚ã€åœ°åŸŸã®æ–‡è„ˆãŒç‰¹ã«é‡è¦ã§ã™ã€‚"
+  },
+  "sections": [
+    {
+      "title": "About Germany",
+      "content": "Germany, officially the Federal Republic of Germany, is a country in Western and Central Europe. It lies between the Baltic Sea and the North Sea to the north with the Alps to the south. Its sixteen constituent states have a total population of over 82 million, making it the most populous member state of the European Union (EU). Germany borders Denmark to the north; Poland and the Czech Republic to the east; Austria and Switzerland to the south; and France, Luxembourg, Belgium, and the Netherlands to the west. The nation's capital and most populous city is Berlin and its main financial centre is Frankfurt; the largest urban area is the Ruhr."
+    },
+    {
+      "title": "Regional Public Holidays in Germany",
+      "content": "In addition to nationwide holidays, federal states observe regional holidays such as Epiphany (Heilige Drei KÃ¶nige), Corpus Christi (Fronleichnam), and All Saintsâ€™ Day (Allerheiligen). Regional observance depends on the specific Bundesland."
+    },
+    {
+      "title": "How Public Holidays Affect Daily Life in Germany",
+      "content": "On public holidays, government offices, schools, and most businesses are closed. Shops are typically required to close by law. Public transport often operates on reduced schedules, similar to Sundays."
+    },
+    {
+      "title": "Why Germanyâ€™s Public Holidays Matter",
+      "content": "Understanding Germanyâ€™s public holidays helps with business operations, workforce planning, and travel. Since holidays vary by state, planning ahead is essential for cross-regional travel and managing deadlines."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Germany?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Germany?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Germany?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Germany?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Germany?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

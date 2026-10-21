@@ -1,0 +1,62 @@
+{
+  "id": "LV",
+  "name": "Latvia",
+  "description": {
+    "en": "Latvia observes a mix of national and regional public holidays that reflect its history, culture, and traditions. These holidays influence work schedules, school terms, travel plans, and the availability of public services."
+  },
+  "sections": [
+    {
+      "title": "About Latvia",
+      "content": "Latvia, officially the Republic of Latvia, is a country in the Baltic region of northern Europe. It is one of the three Baltic states, along with Estonia to the north and Lithuania to the south. It borders Russia to the east and Belarus to the southeast and shares a maritime border with Sweden to the west. Latvia covers an area of 64,573 km2 (24,932 sq mi), with a population of 1.83 million. The country has a temperate seasonal climate. Its capital and largest city is Riga. Latvians, who are the titular nation and comprise 65.5% of the country's population, belong to the ethnolinguistic group of the Balts and speak Latvian. Russians are the most prominent minority in the country, at almost a quarter of the population; 37.7% of the population speak Russian as their native tongue."
+    },
+    {
+      "title": "How Public Holidays Are Observed in Latvia",
+      "content": "On most public holidays in Latvia, government offices, schools, and banks are closed. Many private businesses also close or operate on reduced hours."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Latvia?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Latvia?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Latvia?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Latvia?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Latvia?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

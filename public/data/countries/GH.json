@@ -1,0 +1,73 @@
+{
+  "id": "GH",
+  "name": "Ghana",
+  "description": {
+    "en": "Ghana observes several public holidays each year that affect work schedules, school calendars, travel plans, and government services. These holidays reflect the country's history, religious diversity, and the importance of labour and agriculture to national life.",
+    "es": "Ghana observa varios dÃ­as festivos cada aÃ±o que afectan los horarios de trabajo, calendarios escolares, planes de viaje y servicios gubernamentales. Estos dÃ­as festivos reflejan la historia del paÃ­s, la diversidad religiosa y la importancia del trabajo y la agricultura en la vida nacional.",
+    "fr": "Le Ghana observe plusieurs jours fÃ©riÃ©s chaque annÃ©e qui affectent les horaires de travail, les calendriers scolaires, les plans de voyage et les services gouvernementaux. Ces jours fÃ©riÃ©s reflÃ¨tent l'histoire du pays, la diversitÃ© religieuse et l'importance du travail et de l'agriculture dans la vie nationale.",
+    "de": "Ghana beobachtet mehrere Feiertage pro Jahr, die Arbeitszeiten, Schulkalender, ReiseplÃ¤ne und Regierungsdienste beeinflussen. Diese Feiertage spiegeln die Geschichte des Landes, die religiÃ¶se Vielfalt und die Bedeutung von Arbeit und Landwirtschaft fÃ¼r das nationale Leben wider.",
+    "pt": "Gana observa vÃ¡rios feriados pÃºblicos a cada ano que afetam horÃ¡rios de trabalho, calendÃ¡rios escolares, planos de viagem e serviÃ§os governamentais. Esses feriados refletem a histÃ³ria do paÃ­s, a diversidade religiosa e a importÃ¢ncia do trabalho e da agricultura na vida nacional.",
+    "zh": "åŠ çº³æ¯å¹´éƒ½ä¼šåº†ç¥å‡ ä¸ªå…¬å…±å‡æ—¥ï¼Œè¿™äº›å‡æ—¥ä¼šå½±å“å·¥ä½œæ—¶é—´è¡¨ã€å­¦æ ¡æ—¥åŽ†ã€æ—…è¡Œè®¡åˆ’å’Œæ”¿åºœæœåŠ¡ã€‚è¿™äº›å‡æ—¥åæ˜ äº†è¯¥å›½çš„åŽ†å²ã€å®—æ•™å¤šæ ·æ€§ä»¥åŠåŠ³åŠ¨å’Œå†œä¸šå¯¹å›½å®¶ç”Ÿæ´»çš„é‡è¦æ€§ã€‚",
+    "ar": "ØªØ­ØªÙÙ„ ØºØ§Ù†Ø§ Ø¨Ø¹Ø¯Ø© Ø£ÙŠØ§Ù… Ø¹Ø·Ù„Ø© Ø±Ø³Ù…ÙŠØ© ÙƒÙ„ Ø¹Ø§Ù… ØªØ¤Ø«Ø± Ø¹Ù„Ù‰ Ø¬Ø¯Ø§ÙˆÙ„ Ø§Ù„Ø¹Ù…Ù„ ÙˆØ§Ù„ØªÙ‚ÙˆÙŠÙ…Ø§Øª Ø§Ù„Ù…Ø¯Ø±Ø³ÙŠØ© ÙˆØ®Ø·Ø· Ø§Ù„Ø³ÙØ± ÙˆØ§Ù„Ø®Ø¯Ù…Ø§Øª Ø§Ù„Ø­ÙƒÙˆÙ…ÙŠØ©. ØªØ¹ÙƒØ³ Ù‡Ø°Ù‡ Ø§Ù„Ø¹Ø·Ù„Ø§Øª ØªØ§Ø±ÙŠØ® Ø§Ù„Ø¨Ù„Ø§Ø¯ ÙˆØ§Ù„ØªÙ†ÙˆØ¹ Ø§Ù„Ø¯ÙŠÙ†ÙŠ ÙˆØ£Ù‡Ù…ÙŠØ© Ø§Ù„Ø¹Ù…Ù„ ÙˆØ§Ù„Ø²Ø±Ø§Ø¹Ø© ÙÙŠ Ø§Ù„Ø­ÙŠØ§Ø© Ø§Ù„ÙˆØ·Ù†ÙŠØ©.",
+    "ja": "ã‚¬ãƒ¼ãƒŠã¯æ¯Žå¹´ã„ãã¤ã‹ã®ç¥æ—¥ã‚’å®šã‚ã¦ãŠã‚Šã€ã“ã‚Œã‚‰ã¯å‹¤å‹™ã‚¹ã‚±ã‚¸ãƒ¥ãƒ¼ãƒ«ã€å­¦æ ¡ã‚«ãƒ¬ãƒ³ãƒ€ãƒ¼ã€æ—…è¡Œè¨ˆç”»ã€æ”¿åºœã‚µãƒ¼ãƒ“ã‚¹ã«å½±éŸ¿ã‚’ä¸Žãˆã¾ã™ã€‚ã“ã‚Œã‚‰ã®ç¥æ—¥ã¯ã€å›½ã®æ­´å²ã€å®—æ•™çš„å¤šæ§˜æ€§ã€ãã—ã¦å›½æ°‘ç”Ÿæ´»ã«ãŠã‘ã‚‹åŠ´åƒã¨è¾²æ¥­ã®é‡è¦æ€§ã‚’åæ˜ ã—ã¦ã„ã¾ã™ã€‚"
+  },
+  "sections": [
+    {
+      "title": "About Ghana",
+      "content": "Ghana, officially the Republic of Ghana, is a country in West Africa. It is situated with the Gulf of Guinea and the Atlantic Ocean to the south, and shares borders with Côte d'Ivoire to the west, Burkina Faso to the north, and Togo to the east. Ghana covers an area of 239,567 km2 (92,497 sq mi), spanning diverse ecologies, from coastal savannas to tropical rainforests. With over 35 million inhabitants, Ghana is ranked thirteenth-most populous country in Africa, and the second-most populous country in West Africa. The capital and largest city is Accra."
+    },
+    {
+      "title": "How Public Holidays Affect Daily Life in Ghana",
+      "content": "On most public holidays, government offices and public schools are closed, while banks and some businesses operate on reduced hours. Travel activity tends to increase significantly, especially around major holidays like Christmas and Easter.\n\nPrivate businesses may choose whether or not to operate, often depending on company policy."
+    },
+    {
+      "title": "Why Knowing Ghanaâ€™s Public Holidays Matters",
+      "content": "Accurate holiday information helps with business planning, payroll management, and academic scheduling. It is also crucial for travel and accommodation planning to avoid delays in official or financial processes. Both residents and visitors benefit from knowing which days are officially observed."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Ghana?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Ghana?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Ghana?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Ghana?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Ghana?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

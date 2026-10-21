@@ -1,0 +1,62 @@
+{
+  "id": "BG",
+  "name": "Bulgaria",
+  "description": {
+    "en": "Bulgaria observes a mix of national and regional public holidays that reflect its history, culture, and traditions. These holidays influence work schedules, school terms, travel plans, and the availability of public services."
+  },
+  "sections": [
+    {
+      "title": "About Bulgaria",
+      "content": "Bulgaria, officially the Republic of Bulgaria, is a country in Southeast Europe. It is situated on the eastern portion of the Balkans directly south of the Danube river and west of the Black Sea. Bulgaria is bordered by Greece and Turkey to the south, Serbia and North Macedonia to the west, and Romania across the Danube river to the north. It covers a territory of 110,994 square kilometres (42,855 sq mi), making it the tenth largest within the European Union and the sixteenth-largest country in Europe by area. Sofia is the nation's capital and largest city; other major cities include Plovdiv, Varna, and Burgas."
+    },
+    {
+      "title": "How Public Holidays Are Observed in Bulgaria",
+      "content": "On most public holidays in Bulgaria, government offices, schools, and banks are closed. Many private businesses also close or operate on reduced hours."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Bulgaria?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Bulgaria?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Bulgaria?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Bulgaria?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Bulgaria?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

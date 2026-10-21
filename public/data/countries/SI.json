@@ -1,0 +1,62 @@
+{
+  "id": "SI",
+  "name": "Slovenia",
+  "description": {
+    "en": "Slovenia observes a mix of national and regional public holidays that reflect its history, culture, and traditions. These holidays influence work schedules, school terms, travel plans, and the availability of public services."
+  },
+  "sections": [
+    {
+      "title": "About Slovenia",
+      "content": "Slovenia, officially the Republic of Slovenia, is a country in Central Europe. It borders Italy to the west, Austria to the north, Hungary to the northeast, and Croatia to the south and southeast; its southwestern boundary consists of a 46.6-kilometre (29.0 mi) coastline on the Adriatic Sea. Slovenia is mostly mountainous and forested, covers 20,271 square kilometres (7,827 sq mi), and has a population of approximately 2.1 million people. Slovene is the official language. Slovenia has a predominantly temperate continental climate, with the exception of the Slovene Littoral and the Julian Alps. Ljubljana, the capital and largest city of Slovenia, is geographically situated near the centre of the country. Other larger urban centers include Maribor, Ptuj, Kranj, Celje, and Koper."
+    },
+    {
+      "title": "How Public Holidays Are Observed in Slovenia",
+      "content": "On most public holidays in Slovenia, government offices, schools, and banks are closed. Many private businesses also close or operate on reduced hours."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Slovenia?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Slovenia?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Slovenia?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Slovenia?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Slovenia?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

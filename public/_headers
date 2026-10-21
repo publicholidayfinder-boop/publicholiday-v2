@@ -1,0 +1,18 @@
+# JS/CSS assets — long cache (content-hashed filenames)
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# JSON data files — 1 day cache
+/data/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+
+# HTML — always revalidate
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+# Security headers for all routes
+/*
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()

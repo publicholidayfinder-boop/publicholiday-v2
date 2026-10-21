@@ -1,0 +1,182 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-900;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-display font-bold;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply px-5 py-2.5 rounded-lg font-semibold transition-all duration-200 inline-flex items-center justify-center gap-2;
+  }
+
+  .btn-primary {
+    @apply bg-primary-600 hover:bg-primary-700 text-white shadow-sm hover:shadow active:scale-[0.98];
+  }
+
+  .btn-secondary {
+    @apply bg-white text-slate-700 border border-slate-200 hover:border-primary-500 hover:text-primary-700 hover:bg-primary-50/50 shadow-sm active:scale-[0.98];
+  }
+
+  .btn-outline {
+    @apply bg-white text-slate-700 border border-slate-200 hover:bg-slate-50 hover:text-slate-900 shadow-sm;
+  }
+
+  .card {
+    @apply bg-white rounded-xl border border-slate-100 shadow-sm hover:shadow-md transition-all duration-200 p-6;
+  }
+
+  .glass-card {
+    @apply bg-white/90 backdrop-blur-md rounded-2xl shadow-sm border border-slate-200/80;
+  }
+
+  .badge-public {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold bg-emerald-50 text-emerald-700 border border-emerald-200;
+  }
+
+  .badge-religious {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold bg-sky-50 text-sky-700 border border-sky-200;
+  }
+
+  .badge-observance {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold bg-amber-50 text-amber-700 border border-amber-200;
+  }
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-gradient-to-r from-primary-700 to-primary-500 bg-clip-text text-transparent;
+  }
+}
+
+@media print {
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  @page {
+    margin: 0;
+    size: auto;
+  }
+  
+  body {
+    background: none !important;
+    background-color: white !important;
+  }
+
+  .print\:hidden {
+    display: none !important;
+  }
+
+  .print\:p-0 {
+    padding: 0 !important;
+  }
+
+  .print\:m-0 {
+    margin: 0 !important;
+  }
+
+  .print\:border-none {
+    border: none !important;
+  }
+
+  .print\:shadow-none {
+    box-shadow: none !important;
+  }
+
+  .print\:bg-transparent {
+    background-color: transparent !important;
+  }
+  
+  .print\:text-black {
+    color: black !important;
+  }
+
+  .print\:border {
+    border: 1px solid black !important;
+  }
+  
+  .print\:border-black {
+    border-color: black !important;
+  }
+  
+  .print\:w-full {
+    width: 100% !important;
+  }
+
+  .print\:h-auto {
+    height: auto !important;
+  }
+  
+  .print\:h-screen {
+    height: 100vh !important;
+  }
+
+  .print\:transform-none {
+    transform: none !important;
+  }
+
+  /* Ensure outer wrappers are completely transparent on print so they don't print as black blocks */
+  .min-h-screen, .bg-slate-900, .bg-slate-950 {
+    background-color: transparent !important;
+  }
+
+  #printable-calendar {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100vw !important;
+    box-shadow: none !important;
+    border: none !important;
+    padding: 1.25cm !important;
+    box-sizing: border-box !important;
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  /* Country Page Print Styles */
+  .container {
+    max-width: 100% !important;
+    padding: 1cm !important;
+  }
+
+  table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+    font-size: 11pt !important;
+  }
+
+  table th,
+  table td {
+    border: 1px solid #cbd5e1 !important;
+    padding: 6px 10px !important;
+  }
+
+  table thead tr {
+    background-color: #f1f5f9 !important;
+  }
+
+  .badge-public,
+  .badge-religious,
+  .badge-observance {
+    border: 1px solid #94a3b8 !important;
+    padding: 2px 6px !important;
+    border-radius: 4px !important;
+    font-size: 9pt !important;
+    background: none !important;
+  }
+}

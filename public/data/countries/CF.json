@@ -1,0 +1,66 @@
+{
+  "id": "CF",
+  "name": "Central African Republic",
+  "description": {
+    "en": "The Central African Republic observes a series of public holidays that commemorate significant historical milestones, national figures, and major Christian and Islamic religious events. These holidays play a key role in national unity and cultural identity."
+  },
+  "sections": [
+    {
+      "title": "About Central African Republic",
+      "content": "The Central African Republic (CAR) is a landlocked country located in Central Africa. It is bordered by Chad to the north, Sudan to the northeast, South Sudan to the east, the Democratic Republic of the Congo to the south, the Republic of the Congo to the southwest, and Cameroon to the west. The Central African Republic covers a land area of about 620,000 square kilometres (240,000 sq mi). As of 2024, it has a population of 5,357,744, consisting of about 80 ethnic groups. Having been a French colony under the name Ubangi-Shari, French is its official language, with Sango, a Ngbandi-based creole language, as the national and co-official language. Its capital and largest city is Bangui, which is on the southern border with the Democratic Republic of the Congo."
+    },
+    {
+      "title": "How Public Holidays Are Observed in Central African Republic",
+      "content": "On public holidays, government offices and public schools are closed, and banks/financial institutions typically close. Private businesses may operate reduced hours. Travel activity often increases around major religious and national holidays."
+    },
+    {
+      "title": "Why Central African Republic’s Public Holidays Matter",
+      "content": "Knowing Central African Republic’s public holidays helps with business planning and payroll management, school and academic scheduling, and travel/accommodation planning. Both residents and visitors benefit from understanding when services may be unavailable."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Central African Republic?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Central African Republic?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Central African Republic?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Central African Republic?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Central African Republic?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

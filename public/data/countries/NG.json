@@ -1,0 +1,73 @@
+{
+  "id": "NG",
+  "name": "Nigeria",
+  "description": {
+    "en": "Nigeria observes a range of national and religious public holidays that reflect its political history, cultural diversity, and multi-faith society. These holidays influence government services, business operations, school calendars, and travel plans across the country.",
+    "es": "Nigeria observa una variedad de dÃ­as festivos nacionales y religiosos que reflejan su historia polÃ­tica, diversidad cultural y sociedad multirreligiosa. Estos dÃ­as festivos influyen en los servicios gubernamentales, operaciones comerciales, calendarios escolares y planes de viaje en todo el paÃ­s.",
+    "fr": "Le Nigeria observe une gamme de jours fÃ©riÃ©s nationaux et religieux qui reflÃ¨tent son histoire politique, sa diversitÃ© culturelle et sa sociÃ©tÃ© multireligieuse. Ces jours fÃ©riÃ©s influencent les services gouvernementaux, les opÃ©rations commerciales, les calendriers scolaires et les plans de voyage Ã  travers le pays.",
+    "de": "Nigeria beobachtet eine Reihe nationaler und religiÃ¶ser Feiertage, die seine politische Geschichte, kulturelle Vielfalt und multireligiÃ¶se Gesellschaft widerspiegeln. Diese Feiertage beeinflussen Regierungsdienste, GeschÃ¤ftsablÃ¤ufe, Schulkalender und ReiseplÃ¤ne im ganzen Land.",
+    "pt": "A NigÃ©ria observa uma variedade de feriados nacionais e religiosos que refletem sua histÃ³ria polÃ­tica, diversidade cultural e sociedade multireligiosa. Esses feriados influenciam serviÃ§os governamentais, operaÃ§Ãµes comerciais, calendÃ¡rios escolares e planos de viagem em todo o paÃ­s.",
+    "zh": "å°¼æ—¥åˆ©äºšåº†ç¥ä¸€ç³»åˆ—å›½å®¶å’Œå®—æ•™å…¬å…±å‡æ—¥ï¼Œåæ˜ å…¶æ”¿æ²»åŽ†å²ã€æ–‡åŒ–å¤šæ ·æ€§å’Œå¤šä¿¡ä»°ç¤¾ä¼šã€‚è¿™äº›å‡æ—¥å½±å“å…¨å›½çš„æ”¿åºœæœåŠ¡ã€å•†ä¸šè¿è¥ã€å­¦æ ¡æ—¥åŽ†å’Œæ—…è¡Œè®¡åˆ’ã€‚",
+    "ar": "ØªØ­ØªÙÙ„ Ù†ÙŠØ¬ÙŠØ±ÙŠØ§ Ø¨Ù…Ø¬Ù…ÙˆØ¹Ø© Ù…Ù† Ø§Ù„Ø£Ø¹ÙŠØ§Ø¯ Ø§Ù„ÙˆØ·Ù†ÙŠØ© ÙˆØ§Ù„Ø¯ÙŠÙ†ÙŠØ© Ø§Ù„ØªÙŠ ØªØ¹ÙƒØ³ ØªØ§Ø±ÙŠØ®Ù‡Ø§ Ø§Ù„Ø³ÙŠØ§Ø³ÙŠ ÙˆØªÙ†ÙˆØ¹Ù‡Ø§ Ø§Ù„Ø«Ù‚Ø§ÙÙŠ ÙˆÙ…Ø¬ØªÙ…Ø¹Ù‡Ø§ Ù…ØªØ¹Ø¯Ø¯ Ø§Ù„Ø£Ø¯ÙŠØ§Ù†. ØªØ¤Ø«Ø± Ù‡Ø°Ù‡ Ø§Ù„Ø¹Ø·Ù„Ø§Øª Ø¹Ù„Ù‰ Ø§Ù„Ø®Ø¯Ù…Ø§Øª Ø§Ù„Ø­ÙƒÙˆÙ…ÙŠØ© ÙˆØ§Ù„Ø¹Ù…Ù„ÙŠØ§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØ§Ù„ØªÙ‚ÙˆÙŠÙ…Ø§Øª Ø§Ù„Ù…Ø¯Ø±Ø³ÙŠØ© ÙˆØ®Ø·Ø· Ø§Ù„Ø³ÙØ± ÙÙŠ Ø¬Ù…ÙŠØ¹ Ø£Ù†Ø­Ø§Ø¡ Ø§Ù„Ø¨Ù„Ø§Ø¯.",
+    "ja": "ãƒŠã‚¤ã‚¸ã‚§ãƒªã‚¢ã¯ã€ãã®æ”¿æ²»å²ã€æ–‡åŒ–çš„å¤šæ§˜æ€§ã€å¤šå®—æ•™ç¤¾ä¼šã‚’åæ˜ ã™ã‚‹ä¸€é€£ã®å›½æ°‘çš„ãŠã‚ˆã³å®—æ•™çš„ç¥æ—¥ã‚’å®šã‚ã¦ã„ã¾ã™ã€‚ã“ã‚Œã‚‰ã®ç¥æ—¥ã¯ã€å…¨å›½ã®æ”¿åºœã‚µãƒ¼ãƒ“ã‚¹ã€ãƒ“ã‚¸ãƒã‚¹é‹å–¶ã€å­¦æ ¡ã‚«ãƒ¬ãƒ³ãƒ€ãƒ¼ã€æ—…è¡Œè¨ˆç”»ã«å½±éŸ¿ã‚’ä¸Žãˆã¾ã™ã€‚"
+  },
+  "sections": [
+    {
+      "title": "About Nigeria",
+      "content": "Nigeria, officially the Federal Republic of Nigeria, is a country in West Africa between the Sahel to the north and the Gulf of Guinea in the Atlantic Ocean to the south. It covers an area of 923,769 square kilometres (356,669 mi2). With a population of more than 242 million, it is the most populous country in Africa, and the world's sixth-most populous country. Nigeria borders Niger in the north, Chad in the northeast, Cameroon in the east, and Benin in the west. Nigeria is a federal republic comprising 36 states and the Federal Capital Territory, where its capital, Abuja, is located. The largest city in Nigeria by population is Lagos, one of the largest metropolitan areas in the world and the largest in Africa."
+    },
+    {
+      "title": "How Public Holidays Are Observed in Nigeria",
+      "content": "On public holidays, government offices and public schools are closed, and banks/financial institutions typically close. Private businesses may operate reduced hours. Travel activity often increases around major religious and national holidays."
+    },
+    {
+      "title": "Why Nigeria's Public Holidays Matter",
+      "content": "Knowing Nigeria's public holidays helps with business planning and payroll management, school and academic scheduling, and travel/accommodation planning. Both residents and visitors benefit from understanding when services may be unavailable."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Nigeria?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Nigeria?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Nigeria?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Nigeria?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Nigeria?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

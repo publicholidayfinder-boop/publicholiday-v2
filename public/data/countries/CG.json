@@ -1,0 +1,66 @@
+{
+  "id": "CG",
+  "name": "Republic of the Congo",
+  "description": {
+    "en": "The Republic of the Congo (Congo-Brazzaville) observes national public holidays that celebrate its independence, historical milestones, and religious heritage. These official non-working days affect public services, banks, and schools."
+  },
+  "sections": [
+    {
+      "title": "About Republic of the Congo",
+      "content": "The Republic of the Congo, also known as Congo-Brazzaville, the Congo Republic or simply Congo, is a country located on the western coast of Central Africa to the west of the Congo River. It is bordered to the west by Gabon, to the northwest by Cameroon, to the northeast by the Central African Republic, to the southeast by the Democratic Republic of the Congo, to the south by the Angolan exclave of Cabinda, and to the southwest by the Atlantic Ocean."
+    },
+    {
+      "title": "How Public Holidays Are Observed in Republic of the Congo",
+      "content": "On public holidays, government offices and public schools are closed, and banks/financial institutions typically close. Private businesses may operate reduced hours. Travel activity often increases around major religious and national holidays."
+    },
+    {
+      "title": "Why Republic of the Congo’s Public Holidays Matter",
+      "content": "Knowing Republic of the Congo’s public holidays helps with business planning and payroll management, school and academic scheduling, and travel/accommodation planning. Both residents and visitors benefit from understanding when services may be unavailable."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Republic of the Congo?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Republic of the Congo?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Republic of the Congo?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Republic of the Congo?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Republic of the Congo?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

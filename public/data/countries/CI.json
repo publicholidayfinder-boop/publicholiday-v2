@@ -1,0 +1,62 @@
+{
+  "id": "CI",
+  "name": "Côte d'Ivoire",
+  "description": {
+    "en": "Côte d'Ivoire observes a mix of national and religious public holidays that reflect its history, culture, and diverse traditions. These holidays influence work schedules, school terms, travel plans, and the availability of public services."
+  },
+  "sections": [
+    {
+      "title": "About Côte d'Ivoire",
+      "content": "Ivory Coast, also known as Côte d'Ivoire and officially as the Republic of Côte d'Ivoire, is a country on the southern coast of West Africa. Its capital city of Yamoussoukro is located in the centre of the country, while its largest city and economic centre is the port city of Abidjan. It borders Guinea to the northwest, Liberia to the west, Mali to the northwest, Burkina Faso to the northeast, Ghana to the east, and the Atlantic Ocean's Gulf of Guinea to the south. With 31.5 million inhabitants in 2024, Ivory Coast is the third-most populous country in West Africa. Its official language is French, and indigenous languages are also widely used, including Bété, Baoulé, Dyula, Dan, Anyin, and Cebaara Senufo. In total, there are around 78 languages spoken in Ivory Coast. The country has a religiously diverse population, including numerous followers of Islam, Christianity and traditional faiths often entailing animism."
+    },
+    {
+      "title": "How Public Holidays Are Observed in Côte d'Ivoire",
+      "content": "On most public holidays in Côte d'Ivoire, government offices, schools, and banks are closed. Many private businesses also close or operate on reduced hours."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Côte d'Ivoire?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Côte d'Ivoire?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Côte d'Ivoire?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Côte d'Ivoire?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Côte d'Ivoire?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

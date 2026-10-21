@@ -1,0 +1,70 @@
+{
+  "id": "MN",
+  "name": "Mongolia",
+  "description": {
+    "en": "Mongolia observes public holidays reflecting its nomadic heritage, national history, and Naadam festival traditions."
+  },
+  "sections": [
+    {
+      "title": "About Mongolia",
+      "content": "Mongolia is a landlocked country in the East Asia region. It is bordered by Russia to the north and China to the south, and covers an area of 1,564,116 square kilometers, making it the 18th-largest country in the world and the second largest landlocked country after Kazakhstan, as well as the largest landlocked country that does not border an inland sea. With a population of 3.5 million, Mongolia is the world's most sparsely populated sovereign state, excluding partially unrecognized Western Sahara. The country constitutes a significant portion of the Mongolian Plateau, and its natural environment is characterized by grassy steppe, mountains to the north and west, and the Gobi Desert to the south. Ulaanbaatar, the capital and largest city, is home to roughly half of the country's population."
+    },
+    {
+      "title": "Important Notice",
+      "content": "Public holiday dates and observance rules can change, especially when holidays fall on weekends. Always confirm critical dates with official Mongolia government sources when planning travel, payroll, or business operations."
+    },
+    {
+      "title": "How Mongolia's Public Holidays Are Observed",
+      "content": "On most public and bank holidays:\n\nBanks and government offices are closed.\nSchools are closed.\nSome businesses operate reduced hours.\nPublic transport and retail services may run modified schedules.\nPrivate businesses are not legally required to close but often adjust operating hours."
+    },
+    {
+      "title": "Why Mongolia's Public Holidays Matter",
+      "content": "Understanding Mongolia public holidays helps with:\n\nBusiness and payroll planning.\nSchool and academic scheduling.\nTravel and accommodation planning.\nAvoiding service disruptions.\nBoth residents and visitors benefit from knowing when closures and peak travel periods are likely."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Mongolia?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Mongolia?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Mongolia?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Mongolia?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Mongolia?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

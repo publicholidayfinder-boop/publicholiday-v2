@@ -1,0 +1,47 @@
+﻿const fs = require('fs');
+
+const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#22c55e"/>
+      <stop offset="100%" style="stop-color:#16a34a"/>
+    </linearGradient>
+    <linearGradient id="globe" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4ade80"/>
+      <stop offset="100%" style="stop-color:#15803d"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Rounded square background -->
+  <rect width="100" height="100" rx="22" ry="22" fill="url(#bg)"/>
+
+  <!-- Calendar body -->
+  <rect x="16" y="30" width="68" height="54" rx="7" ry="7" fill="white" opacity="0.95"/>
+
+  <!-- Calendar header bar -->
+  <rect x="16" y="30" width="68" height="20" rx="7" ry="7" fill="#15803d"/>
+  <rect x="16" y="42" width="68" height="8" fill="#15803d"/>
+
+  <!-- Calendar rings -->
+  <rect x="31" y="23" width="7" height="15" rx="3.5" fill="white"/>
+  <rect x="62" y="23" width="7" height="15" rx="3.5" fill="white"/>
+
+  <!-- Calendar grid dots -->
+  <rect x="22" y="58" width="9" height="7" rx="2" fill="#d1fae5" opacity="0.9"/>
+  <rect x="35" y="58" width="9" height="7" rx="2" fill="#d1fae5" opacity="0.9"/>
+  <rect x="48" y="58" width="9" height="7" rx="2" fill="#d1fae5" opacity="0.9"/>
+  <rect x="61" y="58" width="9" height="7" rx="2" fill="#d1fae5" opacity="0.9"/>
+  <rect x="22" y="69" width="9" height="7" rx="2" fill="#d1fae5" opacity="0.6"/>
+  <rect x="35" y="69" width="9" height="7" rx="2" fill="#d1fae5" opacity="0.6"/>
+
+  <!-- Globe overlay (bottom-right) -->
+  <circle cx="65" cy="68" r="18" fill="url(#globe)" opacity="0.92"/>
+  <ellipse cx="65" cy="68" rx="7" ry="18" fill="none" stroke="white" stroke-width="1.5" opacity="0.7"/>
+  <line x1="47" y1="68" x2="83" y2="68" stroke="white" stroke-width="1.5" opacity="0.7"/>
+  <line x1="49" y1="61" x2="81" y2="61" stroke="white" stroke-width="1" opacity="0.5"/>
+  <line x1="49" y1="75" x2="81" y2="75" stroke="white" stroke-width="1" opacity="0.5"/>
+  <circle cx="65" cy="68" r="18" fill="none" stroke="white" stroke-width="1.5" opacity="0.8"/>
+</svg>`;
+
+fs.writeFileSync('public/favicon.svg', svg, 'utf-8');
+console.log('favicon.svg written successfully');

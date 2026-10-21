@@ -1,0 +1,62 @@
+{
+  "id": "SL",
+  "name": "Sierra Leone",
+  "description": {
+    "en": "Sierra Leone observes a mix of national and religious public holidays that reflect its history, culture, and diverse traditions. These holidays influence work schedules, school terms, travel plans, and the availability of public services."
+  },
+  "sections": [
+    {
+      "title": "About Sierra Leone",
+      "content": "Sierra Leone, officially the Republic of Sierra Leone, is a country on the west coast of West Africa. It is bordered to the southeast by Liberia and by Guinea to the north. Sierra Leone's land area is 73,252 km2 (28,283 sq mi). It has a tropical climate and environments ranging from savannas to rainforests. As of the 2023 census, Sierra Leone has a population of 8,460,512. Freetown is its capital and largest city."
+    },
+    {
+      "title": "How Public Holidays Are Observed in Sierra Leone",
+      "content": "On most public holidays in Sierra Leone, government offices, schools, and banks are closed. Many private businesses also close or operate on reduced hours."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Sierra Leone?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Sierra Leone?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Sierra Leone?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Sierra Leone?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Sierra Leone?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

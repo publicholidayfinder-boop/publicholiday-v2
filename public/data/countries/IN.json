@@ -1,0 +1,98 @@
+{
+  "id": "IN",
+  "name": "India",
+  "description": {
+    "en": "India observes public holidays that reflect its independence movement, constitutional democracy, and extraordinary religious and cultural diversity. Some holidays are observed nationwide, while others vary by state and region depending on local traditions and religious practices.",
+    "es": "India observa dÃ­as festivos que reflejan su movimiento de independencia, democracia constitucional y extraordinaria diversidad religiosa y cultural. Algunos dÃ­as festivos se observan a nivel nacional, mientras que otros varÃ­an segÃºn el estado y la regiÃ³n dependiendo de las tradiciones locales y las prÃ¡cticas religiosas.",
+    "fr": "L'Inde observe des jours fÃ©riÃ©s qui reflÃ¨tent son mouvement d'indÃ©pendance, sa dÃ©mocratie constitutionnelle et sa diversitÃ© religieuse et culturelle extraordinaire. Certains jours fÃ©riÃ©s sont observÃ©s Ã  l'Ã©chelle nationale, tandis que d'autres varient selon l'Ã‰tat et la rÃ©gion en fonction des traditions locales et des pratiques religieuses.",
+    "de": "Indien beobachtet Feiertage, die seine UnabhÃ¤ngigkeitsbewegung, konstitutionelle Demokratie und auÃŸergewÃ¶hnliche religiÃ¶se und kulturelle Vielfalt widerspiegeln. Einige Feiertage werden landesweit beobachtet, wÃ¤hrend andere je nach Bundesstaat und Region je nach lokalen Traditionen und religiÃ¶sen Praktiken variieren.",
+    "pt": "A Ãndia observa feriados que refletem seu movimento de independÃªncia, democracia constitucional e extraordinÃ¡ria diversidade religiosa e cultural. Alguns feriados sÃ£o observados nacionalmente, enquanto outros variam por estado e regiÃ£o dependendo das tradiÃ§Ãµes locais e prÃ¡ticas religiosas.",
+    "zh": "å°åº¦åº†ç¥åæ˜ å…¶ç‹¬ç«‹è¿åŠ¨ã€å®ªæ³•æ°‘ä¸»ä»¥åŠéžå‡¡çš„å®—æ•™å’Œæ–‡åŒ–å¤šæ ·æ€§çš„å…¬å…±å‡æ—¥ã€‚ä¸€äº›å‡æ—¥åœ¨å…¨å›½èŒƒå›´å†…åº†ç¥ï¼Œè€Œå…¶ä»–å‡æ—¥åˆ™æ ¹æ®å½“åœ°ä¼ ç»Ÿå’Œå®—æ•™ä¹ ä¿—å› å·žå’Œåœ°åŒºè€Œå¼‚ã€‚",
+    "ar": "ØªØ­ØªÙÙ„ Ø§Ù„Ù‡Ù†Ø¯ Ø¨Ø£ÙŠØ§Ù… Ø¹Ø·Ù„Ø© Ø¹Ø§Ù…Ø© ØªØ¹ÙƒØ³ Ø­Ø±ÙƒØ© Ø§Ø³ØªÙ‚Ù„Ø§Ù„Ù‡Ø§ ÙˆØ§Ù„Ø¯ÙŠÙ…Ù‚Ø±Ø§Ø·ÙŠØ© Ø§Ù„Ø¯Ø³ØªÙˆØ±ÙŠØ© ÙˆØ§Ù„ØªÙ†ÙˆØ¹ Ø§Ù„Ø¯ÙŠÙ†ÙŠ ÙˆØ§Ù„Ø«Ù‚Ø§ÙÙŠ Ø§Ù„Ø§Ø³ØªØ«Ù†Ø§Ø¦ÙŠ. ÙŠØªÙ… Ø§Ù„Ø§Ø­ØªÙØ§Ù„ Ø¨Ø¨Ø¹Ø¶ Ø§Ù„Ø¹Ø·Ù„Ø§Øª Ø¹Ù„Ù‰ Ø§Ù„ØµØ¹ÙŠØ¯ Ø§Ù„ÙˆØ·Ù†ÙŠØŒ Ø¨ÙŠÙ†Ù…Ø§ ØªØ®ØªÙ„Ù Ø§Ù„Ø¹Ø·Ù„Ø§Øª Ø§Ù„Ø£Ø®Ø±Ù‰ Ø­Ø³Ø¨ Ø§Ù„ÙˆÙ„Ø§ÙŠØ© ÙˆØ§Ù„Ù…Ù†Ø·Ù‚Ø© Ø§Ø¹ØªÙ…Ø§Ø¯Ù‹Ø§ Ø¹Ù„Ù‰ Ø§Ù„ØªÙ‚Ø§Ù„ÙŠØ¯ Ø§Ù„Ù…Ø­Ù„ÙŠØ© ÙˆØ§Ù„Ù…Ù…Ø§Ø±Ø³Ø§Øª Ø§Ù„Ø¯ÙŠÙ†ÙŠØ©.",
+    "ja": "ã‚¤ãƒ³ãƒ‰ã¯ã€ãã®ç‹¬ç«‹é‹å‹•ã€ç«‹æ†²æ°‘ä¸»ä¸»ç¾©ã€ä¸¦å¤–ã‚ŒãŸå®—æ•™çš„ãŠã‚ˆã³æ–‡åŒ–çš„å¤šæ§˜æ€§ã‚’åæ˜ ã™ã‚‹ç¥æ—¥ã‚’å®šã‚ã¦ã„ã¾ã™ã€‚ä¸€éƒ¨ã®ç¥æ—¥ã¯å…¨å›½çš„ã«è¦³å¯Ÿã•ã‚Œã¾ã™ãŒã€ä»–ã®ç¥æ—¥ã¯åœ°åŸŸã®ä¼çµ±ã‚„å®—æ•™çš„æ…£ç¿’ã«å¿œã˜ã¦å·žã‚„åœ°åŸŸã«ã‚ˆã£ã¦ç•°ãªã‚Šã¾ã™ã€‚"
+  },
+  "sections": [
+    {
+      "title": "About India",
+      "content": "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area; the most populous country in the world and, since its independence in 1947, the world's most populous democracy. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west; China, Nepal and Bhutan to the north; Bangladesh and Myanmar to the east. In the Indian Ocean, India is near Sri Lanka and the Maldives. Its Andaman and Nicobar Islands share a maritime border with Myanmar, Thailand and Indonesia."
+    },
+    {
+      "title": {
+        "en": "Important Notice",
+        "es": "Aviso Importante"
+      },
+      "content": {
+        "en": "India does not have a single uniform public holiday calendar. In addition to national holidays, each state declares its own regional and religious holidays. Always verify local observance with state government or banking authorities for official planning.",
+        "es": "India no tiene un calendario de dÃ­as festivos pÃºblicos uniforme. AdemÃ¡s de los dÃ­as festivos nacionales, cada estado declara sus propios dÃ­as festivos regionales y religiosos. Verifique siempre la observancia local con el gobierno estatal o las autoridades bancarias para la planificaciÃ³n oficial."
+      }
+    },
+    {
+      "title": {
+        "en": "How Public Holidays Are Observed in India",
+        "es": "CÃ³mo se observan los dÃ­as festivos en India"
+      },
+      "content": {
+        "en": "On most public holidays:\n\nGovernment offices and banks are closed.\nSchools are closed.\nPrivate businesses may operate depending on region and industry.\nTransport services usually continue with minor schedule adjustments.\nNational holidays such as Republic Day, Independence Day, and Gandhi Jayanti are observed across the entire country.",
+        "es": "En la mayorÃ­a de los dÃ­as festivos:\n\nLas oficinas gubernamentales y los bancos estÃ¡n cerrados.\nLas escuelas estÃ¡n cerradas.\nLas empresas privadas pueden operar segÃºn la regiÃ³n y la industria.\nLos servicios de transporte generalmente continÃºan con ajustes menores de horario.\nLos dÃ­as festivos nacionales como el DÃ­a de la RepÃºblica, el DÃ­a de la Independencia y Gandhi Jayanti se observan en todo el paÃ­s."
+      }
+    },
+    {
+      "title": {
+        "en": "Why Indian Public Holidays Matter",
+        "es": "Por quÃ© importan los dÃ­as festivos en India"
+      },
+      "content": {
+        "en": "Understanding Indian public holidays helps with:\n\nBusiness and payroll planning.\nBanking and government service access.\nTravel and accommodation scheduling.\nAvoiding regional service disruptions.\nThis is especially important in India due to state-specific observance rules.",
+        "es": "Entender los dÃ­as festivos indios ayuda con:\n\nla planificaciÃ³n empresarial y de nÃ³minas.\nel acceso a servicios bancarios y gubernamentales.\nla programaciÃ³n de viajes y alojamiento.\nevitar interrupciones en los servicios regionales.\nEsto es especialmente importante en India debido a las reglas de observancia especÃ­ficas de cada estado."
+      }
+    },
+    {
+      "title": {
+        "en": "Frequently Asked Questions",
+        "es": "Preguntas Frecuentes"
+      },
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in India?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in India?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in India?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in India?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in India?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

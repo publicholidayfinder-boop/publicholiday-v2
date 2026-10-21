@@ -1,0 +1,70 @@
+{
+  "id": "LK",
+  "name": "Sri Lanka",
+  "description": {
+    "en": "Sri Lanka observes a diverse range of public holidays rooted in Buddhism, Hinduism, Islam, and Christianity, reflecting the country's multicultural society."
+  },
+  "sections": [
+    {
+      "title": "About Sri Lanka",
+      "content": "Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, formerly known as Ceylon, is an island country in South Asia. It is located in the Indian Ocean, southwest of the Bay of Bengal, and is separated from India by the Gulf of Mannar and the Palk Strait. Sri Lanka shares a maritime border with the Maldives to the southwest and India to the northwest, and lies across the Bay of Bengal from Bangladesh and Myanmar to the northeast and the Andaman and Nicobar Islands of India to the east. Its capital is Sri Jayawardenepura Kotte, while Colombo is its largest city and the political, financial and cultural centre. Sri Lanka's population is 22 million; with the Sinhalese people, who speak the Sinhala language, forming the vast majority—while Tamil is spoken by the large Tamil minority. Other long-established ethnic groups include the Moors, Indian Tamils, Burghers, Malays, Chinese, and Vedda."
+    },
+    {
+      "title": "Important Notice",
+      "content": "Public holiday dates and observance rules can change, especially when holidays fall on weekends. Always confirm critical dates with official Sri Lanka government sources when planning travel, payroll, or business operations."
+    },
+    {
+      "title": "How Sri Lanka's Public Holidays Are Observed",
+      "content": "On most public and bank holidays:\n\nBanks and government offices are closed.\nSchools are closed.\nSome businesses operate reduced hours.\nPublic transport and retail services may run modified schedules.\nPrivate businesses are not legally required to close but often adjust operating hours."
+    },
+    {
+      "title": "Why Sri Lanka's Public Holidays Matter",
+      "content": "Understanding Sri Lanka public holidays helps with:\n\nBusiness and payroll planning.\nSchool and academic scheduling.\nTravel and accommodation planning.\nAvoiding service disruptions.\nBoth residents and visitors benefit from knowing when closures and peak travel periods are likely."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Sri Lanka?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Sri Lanka?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Sri Lanka?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Sri Lanka?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Sri Lanka?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿const fs = require('fs');
+const lines = fs.readFileSync('src/pages/HomePage.jsx', 'utf-8').split('\n');
+lines[313] = '                            {t(\'steps.subtitle\', \'Create your custom public holiday calendar in just 5 easy steps — no sign-up required.\')}';
+lines[322] = '                                icon: \'🌍\',';
+lines[331] = '                                desc: t(\'steps.step2.desc\', \'Pick the calendar year you need — covering past years and upcoming years including 2026 & 2027.\'),';
+lines[343] = '                                icon: \'⚙️\',';
+lines[352] = '                                desc: t(\'steps.step5.desc\', \'Download your finished calendar as a PDF, PNG, or ICS file — or print it straight from your browser.\'),';
+lines[298] = '            {/* How to Generate a Calendar — Steps Section */}';
+fs.writeFileSync('src/pages/HomePage.jsx', lines.join('\n'), 'utf-8');
+console.log('Fixed specific lines with absolute string replacements.');

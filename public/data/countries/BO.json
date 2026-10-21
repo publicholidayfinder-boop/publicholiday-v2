@@ -1,0 +1,70 @@
+{
+  "id": "BO",
+  "name": "Bolivia",
+  "description": {
+    "en": "Bolivia observes a variety of national and religious public holidays that reflect its rich cultural heritage. These holidays significantly affect business operations, government services, and school terms across the nation."
+  },
+  "sections": [
+    {
+      "title": "About Bolivia",
+      "content": "Bolivia, officially the Plurinational State of Bolivia, is a landlocked country located in central South America. Its geography primarily consists of an Andean region to the west and tropical lowlands to the east and north. The country has a diverse environment, including the vast Amazonian plain, the Gran Chaco, temperate valleys, the high-altitude Altiplano plateau, snow-capped peaks, and mountains, encompassing a wide range of climates and biomes across its regions and cities. It includes part of the Pantanal, the largest tropical wetland in the world, along its eastern border. Bolivia is bordered by Brazil to the north and east, Paraguay to the southeast, Argentina to the south, Chile to the southwest, and Peru to the west. The seat of government is La Paz, which contains the executive, legislative, and electoral branches of government, while the constitutional capital is Sucre, the seat of the judiciary. While most population and urban centers lie in the Andean region, the largest city and principal industrial center is Santa Cruz de la Sierra, located in the eastern tropical lowlands."
+    },
+    {
+      "title": "Important Notice",
+      "content": "Public holiday dates and observance rules can change, especially when holidays fall on weekends. Always confirm critical dates with official Bolivia government sources when planning travel, payroll, or business operations."
+    },
+    {
+      "title": "How Bolivia's Public Holidays Are Observed",
+      "content": "On most public and bank holidays:\n\nBanks and government offices are closed.\nSchools are closed.\nSome businesses operate reduced hours.\nPublic transport and retail services may run modified schedules.\nPrivate businesses are not legally required to close but often adjust operating hours."
+    },
+    {
+      "title": "Why Bolivia's Public Holidays Matter",
+      "content": "Understanding Bolivia's public holidays helps with:\n\nBusiness and payroll planning.\nSchool and academic scheduling.\nTravel and accommodation planning.\nAvoiding service disruptions.\nBoth residents and visitors benefit from knowing when closures and peak travel periods are likely."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Bolivia?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Bolivia?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Bolivia?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Bolivia?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Bolivia?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

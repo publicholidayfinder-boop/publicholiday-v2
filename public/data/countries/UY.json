@@ -1,0 +1,70 @@
+{
+  "id": "UY",
+  "name": "Uruguay",
+  "description": {
+    "en": "Uruguay observes a variety of national and religious public holidays that reflect its rich cultural heritage. These holidays significantly affect business operations, government services, and school terms across the nation."
+  },
+  "sections": [
+    {
+      "title": "About Uruguay",
+      "content": "Uruguay, officially the Oriental Republic of Uruguay, is a country in South America. It shares borders with Argentina to its west and southwest and Brazil to its north and northeast, while bordering the Río de la Plata to the south and the Atlantic Ocean to the southeast. It is part of the Southern Cone region of South America. Uruguay covers an area of approximately 176,215 square kilometers (68,037 sq mi). It has a population of almost 3.5 million people, of whom nearly 2 million live in the metropolitan area of its capital and largest city, Montevideo."
+    },
+    {
+      "title": "Important Notice",
+      "content": "Public holiday dates and observance rules can change, especially when holidays fall on weekends. Always confirm critical dates with official Uruguay government sources when planning travel, payroll, or business operations."
+    },
+    {
+      "title": "How Uruguay's Public Holidays Are Observed",
+      "content": "On most public and bank holidays:\n\nBanks and government offices are closed.\nSchools are closed.\nSome businesses operate reduced hours.\nPublic transport and retail services may run modified schedules.\nPrivate businesses are not legally required to close but often adjust operating hours."
+    },
+    {
+      "title": "Why Uruguay's Public Holidays Matter",
+      "content": "Understanding Uruguay's public holidays helps with:\n\nBusiness and payroll planning.\nSchool and academic scheduling.\nTravel and accommodation planning.\nAvoiding service disruptions.\nBoth residents and visitors benefit from knowing when closures and peak travel periods are likely."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Uruguay?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Uruguay?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Uruguay?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Uruguay?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Uruguay?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

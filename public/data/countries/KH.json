@@ -1,0 +1,70 @@
+{
+  "id": "KH",
+  "name": "Cambodia",
+  "description": {
+    "en": "Cambodia observes public holidays rooted in Buddhism, the monarchy, and national history. Khmer New Year is one of the most celebrated holidays in the country."
+  },
+  "sections": [
+    {
+      "title": "About Cambodia",
+      "content": "Cambodia, officially the Kingdom of Cambodia, is a country in Mainland Southeast Asia. It is bordered by Thailand to the northwest, Laos to the north, and Vietnam to the east, and has a coastline along the Gulf of Thailand in the southwest. It spans an area of 181,035 km2 (69,898 sq mi), dominated by a low-lying plain and the confluence of the Mekong river and Tonlé Sap, Southeast Asia's largest lake. It is dominated by a tropical climate. Cambodia has a population of about 17 million people, the majority of which are ethnically Khmer. Its capital and most populous city is Phnom Penh, followed by Siem Reap and Battambang."
+    },
+    {
+      "title": "Important Notice",
+      "content": "Public holiday dates and observance rules can change, especially when holidays fall on weekends. Always confirm critical dates with official Cambodia government sources when planning travel, payroll, or business operations."
+    },
+    {
+      "title": "How Cambodia's Public Holidays Are Observed",
+      "content": "On most public and bank holidays:\n\nBanks and government offices are closed.\nSchools are closed.\nSome businesses operate reduced hours.\nPublic transport and retail services may run modified schedules.\nPrivate businesses are not legally required to close but often adjust operating hours."
+    },
+    {
+      "title": "Why Cambodia's Public Holidays Matter",
+      "content": "Understanding Cambodia public holidays helps with:\n\nBusiness and payroll planning.\nSchool and academic scheduling.\nTravel and accommodation planning.\nAvoiding service disruptions.\nBoth residents and visitors benefit from knowing when closures and peak travel periods are likely."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Cambodia?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Cambodia?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Cambodia?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Cambodia?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Cambodia?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

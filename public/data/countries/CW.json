@@ -1,0 +1,62 @@
+{
+  "id": "CW",
+  "name": "Curaçao",
+  "description": {
+    "en": "Discover public holidays, national days, and regional observances in Curaçao. Plan your travels and schedule around the official holiday calendar."
+  },
+  "sections": [
+    {
+      "title": "About Curaçao",
+      "content": "Curaçao has a unique calendar of public holidays that reflect its culture, history, and traditions. The local observances often include both national and regional celebrations."
+    },
+    {
+      "title": "How Public Holidays Are Observed",
+      "content": "On public holidays in Curaçao, schools, government offices, and many private businesses are typically closed. Public transport may operate on a reduced schedule. Essential services remain operational."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are shops open on public holidays in Curaçao?"
+          },
+          "a": {
+            "en": "Many large retail stores and supermarkets may operate on reduced hours, while smaller independent shops and local businesses usually close. It is advisable to check ahead."
+          }
+        },
+        {
+          "q": {
+            "en": "How are weekends treated for holidays in Curaçao?"
+          },
+          "a": {
+            "en": "If a fixed-date public holiday falls on a weekend, Curaçao often provides a substitute day off on the following Monday, though this depends on the specific holiday laws."
+          }
+        },
+        {
+          "q": {
+            "en": "Is public transport available on holidays?"
+          },
+          "a": {
+            "en": "Public transportation generally runs on a Sunday or holiday schedule, which means reduced frequency. It is recommended to check local transit websites before traveling."
+          }
+        },
+        {
+          "q": {
+            "en": "What is the most significant holiday in Curaçao?"
+          },
+          "a": {
+            "en": "Major holidays usually include New Year's Day, religious observances like Christmas or Easter, and significant local national or territory days."
+          }
+        },
+        {
+          "q": {
+            "en": "Do holidays affect banking hours?"
+          },
+          "a": {
+            "en": "Yes, banks are closed on all official public holidays. Online banking remains available, but physical branches will not be open."
+          }
+        }
+      ]
+    }
+  ]
+}

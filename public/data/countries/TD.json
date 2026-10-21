@@ -1,0 +1,66 @@
+{
+  "id": "TD",
+  "name": "Chad",
+  "description": {
+    "en": "Chad's public holidays consist of national events honoring its sovereignty and leaders, along with religious celebrations observed by its diverse Muslim and Christian populations. These holidays shape business and government activities throughout the country."
+  },
+  "sections": [
+    {
+      "title": "About Chad",
+      "content": "Chad, officially the Republic of Chad, is a landlocked country in Central Africa. It is bordered by Libya to the north, Sudan to the east, the Central African Republic to the south, Cameroon to the southwest, Nigeria to the southwest, and Niger to the west. Chad has a population of 19 million, of which 1.6 million live in the capital and largest city of N'Djamena. With a total area of around 1,300,000 km2 (500,000 sq mi), Chad is the fifth-largest country in Africa and the twentieth largest nation by area."
+    },
+    {
+      "title": "How Public Holidays Are Observed in Chad",
+      "content": "On public holidays, government offices and public schools are closed, and banks/financial institutions typically close. Private businesses may operate reduced hours. Travel activity often increases around major religious and national holidays."
+    },
+    {
+      "title": "Why Chad’s Public Holidays Matter",
+      "content": "Knowing Chad’s public holidays helps with business planning and payroll management, school and academic scheduling, and travel/accommodation planning. Both residents and visitors benefit from understanding when services may be unavailable."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Chad?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Chad?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Chad?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Chad?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Chad?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "CL",
+  "name": "Chile",
+  "description": {
+    "en": "Chile observes a variety of national and religious public holidays that reflect its rich cultural heritage. These holidays significantly affect business operations, government services, and school terms across the nation."
+  },
+  "sections": [
+    {
+      "title": "About Chile",
+      "content": "Chile, officially the Republic of Chile, is a country in western South America. It is the southernmost country in the world and the closest to Antarctica, extending along a narrow strip of land between the Andes Mountains and the Pacific Ocean. According to the 2024 census, Chile had an enumerated population of 18.5 million. The country covers a territorial area of 756,102 square kilometers (291,933 sq mi), sharing borders with Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage to the south. It also administers several Pacific islands, including Juan Fernández, Isla Salas y Gómez, Desventuradas, and Easter Island, and claims about 1,250,000 square kilometers (480,000 sq mi) of Antarctica as the Chilean Antarctic Territory. The capital and largest city is Santiago, and the official and national language is Spanish."
+    },
+    {
+      "title": "Important Notice",
+      "content": "Public holiday dates and observance rules can change, especially when holidays fall on weekends. Always confirm critical dates with official Chile government sources when planning travel, payroll, or business operations."
+    },
+    {
+      "title": "How Chile's Public Holidays Are Observed",
+      "content": "On most public and bank holidays:\n\nBanks and government offices are closed.\nSchools are closed.\nSome businesses operate reduced hours.\nPublic transport and retail services may run modified schedules.\nPrivate businesses are not legally required to close but often adjust operating hours."
+    },
+    {
+      "title": "Why Chile's Public Holidays Matter",
+      "content": "Understanding Chile's public holidays helps with:\n\nBusiness and payroll planning.\nSchool and academic scheduling.\nTravel and accommodation planning.\nAvoiding service disruptions.\nBoth residents and visitors benefit from knowing when closures and peak travel periods are likely."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Chile?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Chile?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Chile?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Chile?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Chile?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

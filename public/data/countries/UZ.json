@@ -1,0 +1,70 @@
+{
+  "id": "UZ",
+  "name": "Uzbekistan",
+  "description": {
+    "en": "Uzbekistan observes public holidays reflecting its national independence, Islamic traditions, and rich Silk Road cultural heritage."
+  },
+  "sections": [
+    {
+      "title": "About Uzbekistan",
+      "content": "Uzbekistan, officially the Republic of Uzbekistan, is a doubly landlocked country located in Central Asia. It is bordered by Kazakhstan to the north, Kyrgyzstan to the northeast, Tajikistan to the southeast, Afghanistan to the south, and Turkmenistan to the southwest. This makes it one of the only two doubly landlocked countries in the world, the other being Liechtenstein. The country has a population of more than 38.2 million, making it the most populous Central Asian republic. Uzbekistan is a member of the Organization of Turkic States. Uzbek, spoken by the Uzbek people who form nearly 85% of the population, is the official language while Russian and Tajik are significant minority languages."
+    },
+    {
+      "title": "Important Notice",
+      "content": "Public holiday dates and observance rules can change, especially when holidays fall on weekends. Always confirm critical dates with official Uzbekistan government sources when planning travel, payroll, or business operations."
+    },
+    {
+      "title": "How Uzbekistan's Public Holidays Are Observed",
+      "content": "On most public and bank holidays:\n\nBanks and government offices are closed.\nSchools are closed.\nSome businesses operate reduced hours.\nPublic transport and retail services may run modified schedules.\nPrivate businesses are not legally required to close but often adjust operating hours."
+    },
+    {
+      "title": "Why Uzbekistan's Public Holidays Matter",
+      "content": "Understanding Uzbekistan public holidays helps with:\n\nBusiness and payroll planning.\nSchool and academic scheduling.\nTravel and accommodation planning.\nAvoiding service disruptions.\nBoth residents and visitors benefit from knowing when closures and peak travel periods are likely."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Uzbekistan?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Uzbekistan?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Uzbekistan?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Uzbekistan?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Uzbekistan?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

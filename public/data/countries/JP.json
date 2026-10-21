@@ -1,0 +1,67 @@
+{
+  "id": "JP",
+  "name": "Japan",
+  "description": {
+    "en": "Japan's national holidays blend ancient traditions with modern celebrations, honoring nature, culture, and historical milestones. These holidays reflect Japanese values of respect for tradition, appreciation of nature, and commemoration of constitutional democracy.",
+    "es": "Los dÃ­as festivos nacionales de JapÃ³n combinan tradiciones antiguas con celebraciones modernas, honrando la naturaleza, la cultura y los hitos histÃ³ricos. Estos dÃ­as festivos reflejan los valores japoneses de respeto por la tradiciÃ³n, apreciaciÃ³n de la naturaleza y conmemoraciÃ³n de la democracia constitucional.",
+    "fr": "Les jours fÃ©riÃ©s nationaux du Japon mÃ©langent les traditions anciennes avec les cÃ©lÃ©brations modernes, honorant la nature, la culture et les jalons historiques. Ces jours fÃ©riÃ©s reflÃ¨tent les valeurs japonaises de respect pour la tradition, d'apprÃ©ciation de la nature et de commÃ©moration de la dÃ©mocratie constitutionnelle.",
+    "de": "Japans nationale Feiertage verbinden alte Traditionen mit modernen Feiern und ehren Natur, Kultur und historische Meilensteine. Diese Feiertage spiegeln japanische Werte des Respekts vor Traditionen, der WertschÃ¤tzung der Natur und des Gedenkens an die konstitutionelle Demokratie wider.",
+    "pt": "Os feriados nacionais do JapÃ£o misturam tradiÃ§Ãµes antigas com celebraÃ§Ãµes modernas, honrando a natureza, a cultura e marcos histÃ³ricos. Esses feriados refletem os valores japoneses de respeito pela tradiÃ§Ã£o, apreciaÃ§Ã£o da natureza e comemoraÃ§Ã£o da democracia constitucional.",
+    "zh": "æ—¥æœ¬çš„å›½å®šå‡æ—¥å°†å¤è€ä¼ ç»Ÿä¸ŽçŽ°ä»£åº†ç¥æ´»åŠ¨ç›¸ç»“åˆï¼Œå°Šé‡è‡ªç„¶ã€æ–‡åŒ–å’ŒåŽ†å²é‡Œç¨‹ç¢‘ã€‚è¿™äº›å‡æ—¥åæ˜ äº†æ—¥æœ¬å¯¹ä¼ ç»Ÿçš„å°Šé‡ã€å¯¹è‡ªç„¶çš„æ¬£èµä»¥åŠå¯¹å®ªæ³•æ°‘ä¸»çš„çºªå¿µçš„ä»·å€¼è§‚ã€‚",
+    "ar": "ØªÙ…Ø²Ø¬ Ø§Ù„Ø£Ø¹ÙŠØ§Ø¯ Ø§Ù„ÙˆØ·Ù†ÙŠØ© ÙÙŠ Ø§Ù„ÙŠØ§Ø¨Ø§Ù† Ø¨ÙŠÙ† Ø§Ù„ØªÙ‚Ø§Ù„ÙŠØ¯ Ø§Ù„Ù‚Ø¯ÙŠÙ…Ø© ÙˆØ§Ù„Ø§Ø­ØªÙØ§Ù„Ø§Øª Ø§Ù„Ø­Ø¯ÙŠØ«Ø©ØŒ ØªÙƒØ±ÙŠÙ…Ù‹Ø§ Ù„Ù„Ø·Ø¨ÙŠØ¹Ø© ÙˆØ§Ù„Ø«Ù‚Ø§ÙØ© ÙˆØ§Ù„Ù…Ø¹Ø§Ù„Ù… Ø§Ù„ØªØ§Ø±ÙŠØ®ÙŠØ©. ØªØ¹ÙƒØ³ Ù‡Ø°Ù‡ Ø§Ù„Ø¹Ø·Ù„Ø§Øª Ø§Ù„Ù‚ÙŠÙ… Ø§Ù„ÙŠØ§Ø¨Ø§Ù†ÙŠØ© Ø§Ù„Ù…ØªÙ…Ø«Ù„Ø© ÙÙŠ Ø§Ø­ØªØ±Ø§Ù… Ø§Ù„ØªÙ‚Ø§Ù„ÙŠØ¯ ÙˆØªÙ‚Ø¯ÙŠØ± Ø§Ù„Ø·Ø¨ÙŠØ¹Ø© ÙˆØ¥Ø­ÙŠØ§Ø¡ Ø°ÙƒØ±Ù‰ Ø§Ù„Ø¯ÙŠÙ…Ù‚Ø±Ø§Ø·ÙŠØ© Ø§Ù„Ø¯Ø³ØªÙˆØ±ÙŠØ©.",
+    "ja": "æ—¥æœ¬ã®å›½æ°‘ã®ç¥æ—¥ã¯ã€å¤ä»£ã®ä¼çµ±ã¨ç¾ä»£ã®ç¥ç¥­ã‚’èžåˆã•ã›ã€è‡ªç„¶ã€æ–‡åŒ–ã€æ­´å²çš„ãªãƒžã‚¤ãƒ«ã‚¹ãƒˆãƒ¼ãƒ³ã‚’ç§°ãˆã¦ã„ã¾ã™ã€‚ã“ã‚Œã‚‰ã®ç¥æ—¥ã¯ã€ä¼çµ±ã¸ã®æ•¬æ„ã€è‡ªç„¶ã¸ã®æ„Ÿè¬ã€ç«‹æ†²æ°‘ä¸»ä¸»ç¾©ã®è¨˜å¿µã¨ã„ã†æ—¥æœ¬ã®ä¾¡å€¤è¦³ã‚’åæ˜ ã—ã¦ã„ã¾ã™ã€‚"
+  },
+  "sections": [
+    {
+      "title": "About Japan",
+      "content": "Japan is an island country in East Asia. Located in the Pacific Ocean off the northeast coast of the Asian mainland, it is bordered to the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. The Japanese archipelago consists of four major islands alongside 14,121 smaller islands. Japan is divided into 47 administrative prefectures and eight traditional regions, and around 75% of its terrain is mountainous and heavily forested, concentrating its agriculture and highly urbanized population along its eastern coastal plains. With a population of almost 123 million as of 2026, it is the world's 11th most populous country. Tokyo is the country's capital and largest city."
+    },
+    {
+      "title": {
+        "en": "Frequently Asked Questions"
+      },
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Japan?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Japan?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Japan?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Japan?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Japan?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

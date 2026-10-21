@@ -1,0 +1,894 @@
+[
+  {
+    "id": "AX",
+    "name": "Åland Islands",
+    "slug": "-land-islands",
+    "flag": "🇦🇽",
+    "description": "Public holidays and observances in Åland Islands.",
+    "faqs": []
+  },
+  {
+    "id": "AL",
+    "name": "Albania"
+  },
+  {
+    "id": "DZ",
+    "name": "Algeria"
+  },
+  {
+    "id": "AS",
+    "name": "American Samoa"
+  },
+  {
+    "id": "AD",
+    "name": "Andorra"
+  },
+  {
+    "id": "AO",
+    "name": "Angola"
+  },
+  {
+    "id": "AI",
+    "name": "Anguilla"
+  },
+  {
+    "id": "AG",
+    "name": "Antigua and Barbuda"
+  },
+  {
+    "id": "AR",
+    "name": "Argentina"
+  },
+  {
+    "id": "AM",
+    "name": "Armenia"
+  },
+  {
+    "id": "AW",
+    "name": "Aruba"
+  },
+  {
+    "id": "AU",
+    "name": "Australia"
+  },
+  {
+    "id": "AT",
+    "name": "Austria"
+  },
+  {
+    "id": "AZ",
+    "name": "Azerbaijan"
+  },
+  {
+    "id": "BS",
+    "name": "Bahamas"
+  },
+  {
+    "id": "BH",
+    "name": "Bahrain"
+  },
+  {
+    "id": "BD",
+    "name": "Bangladesh"
+  },
+  {
+    "id": "BB",
+    "name": "Barbados"
+  },
+  {
+    "id": "BY",
+    "name": "Belarus"
+  },
+  {
+    "id": "BE",
+    "name": "Belgium"
+  },
+  {
+    "id": "BZ",
+    "name": "Belize"
+  },
+  {
+    "id": "BJ",
+    "name": "Benin"
+  },
+  {
+    "id": "BM",
+    "name": "Bermuda"
+  },
+  {
+    "id": "BO",
+    "name": "Bolivia"
+  },
+  {
+    "id": "BA",
+    "name": "Bosnia and Herzegovina"
+  },
+  {
+    "id": "BW",
+    "name": "Botswana"
+  },
+  {
+    "id": "BR",
+    "name": "Brazil"
+  },
+  {
+    "id": "VG",
+    "name": "British Virgin Islands"
+  },
+  {
+    "id": "BN",
+    "name": "Brunei Darussalam"
+  },
+  {
+    "id": "BG",
+    "name": "Bulgaria"
+  },
+  {
+    "id": "BF",
+    "name": "Burkina Faso"
+  },
+  {
+    "id": "BI",
+    "name": "Burundi"
+  },
+  {
+    "id": "CV",
+    "name": "Cabo Verde"
+  },
+  {
+    "id": "KH",
+    "name": "Cambodia"
+  },
+  {
+    "id": "CM",
+    "name": "Cameroon"
+  },
+  {
+    "id": "CA",
+    "name": "Canada"
+  },
+  {
+    "id": "IC",
+    "name": "Canary Islands",
+    "slug": "canary-islands",
+    "flag": "🇮🇨",
+    "description": "Public holidays and observances in Canary Islands.",
+    "faqs": []
+  },
+  {
+    "id": "BQ",
+    "name": "Caribisch Nederland"
+  },
+  {
+    "id": "KY",
+    "name": "Cayman Islands"
+  },
+  {
+    "id": "CF",
+    "name": "Central African Republic"
+  },
+  {
+    "id": "TD",
+    "name": "Chad"
+  },
+  {
+    "id": "CL",
+    "name": "Chile"
+  },
+  {
+    "id": "CN",
+    "name": "China"
+  },
+  {
+    "id": "CX",
+    "name": "Christmas Island"
+  },
+  {
+    "id": "CC",
+    "name": "Cocos (Keeling) Islands"
+  },
+  {
+    "id": "CO",
+    "name": "Colombia"
+  },
+  {
+    "id": "KM",
+    "name": "Comoros"
+  },
+  {
+    "id": "CK",
+    "name": "Cook Islands"
+  },
+  {
+    "id": "CR",
+    "name": "Costa Rica"
+  },
+  {
+    "id": "CI",
+    "name": "Côte d'Ivoire"
+  },
+  {
+    "id": "HR",
+    "name": "Croatia"
+  },
+  {
+    "id": "CU",
+    "name": "Cuba"
+  },
+  {
+    "id": "CW",
+    "name": "Curaçao"
+  },
+  {
+    "id": "CY",
+    "name": "Cyprus"
+  },
+  {
+    "id": "CZ",
+    "name": "Czechia"
+  },
+  {
+    "id": "CD",
+    "name": "Democratic Republic of the Congo"
+  },
+  {
+    "id": "DK",
+    "name": "Denmark"
+  },
+  {
+    "id": "DJ",
+    "name": "Djibouti"
+  },
+  {
+    "id": "DM",
+    "name": "Dominica"
+  },
+  {
+    "id": "DO",
+    "name": "Dominican Republic"
+  },
+  {
+    "id": "EC",
+    "name": "Ecuador"
+  },
+  {
+    "id": "EG",
+    "name": "Egypt"
+  },
+  {
+    "id": "SV",
+    "name": "El Salvador"
+  },
+  {
+    "id": "GQ",
+    "name": "Equatorial Guinea"
+  },
+  {
+    "id": "ER",
+    "name": "Eritrea"
+  },
+  {
+    "id": "EE",
+    "name": "Estonia"
+  },
+  {
+    "id": "SZ",
+    "name": "Eswatini"
+  },
+  {
+    "id": "ET",
+    "name": "Ethiopia"
+  },
+  {
+    "id": "FO",
+    "name": "Faroe Islands",
+    "slug": "faroe-islands",
+    "flag": "🇫🇴",
+    "description": "Public holidays and observances in Faroe Islands.",
+    "faqs": []
+  },
+  {
+    "id": "FJ",
+    "name": "Fiji"
+  },
+  {
+    "id": "FI",
+    "name": "Finland"
+  },
+  {
+    "id": "FR",
+    "name": "France"
+  },
+  {
+    "id": "PF",
+    "name": "French Polynesia"
+  },
+  {
+    "id": "GA",
+    "name": "Gabon"
+  },
+  {
+    "id": "GM",
+    "name": "Gambia"
+  },
+  {
+    "id": "GE",
+    "name": "Georgia"
+  },
+  {
+    "id": "DE",
+    "name": "Germany"
+  },
+  {
+    "id": "GH",
+    "name": "Ghana"
+  },
+  {
+    "id": "GI",
+    "name": "Gibraltar",
+    "slug": "gibraltar",
+    "flag": "🇬🇮",
+    "description": "Public holidays and observances in Gibraltar.",
+    "faqs": []
+  },
+  {
+    "id": "GR",
+    "name": "Greece"
+  },
+  {
+    "id": "GD",
+    "name": "Grenada"
+  },
+  {
+    "id": "GP",
+    "name": "Guadeloupe"
+  },
+  {
+    "id": "GU",
+    "name": "Guam"
+  },
+  {
+    "id": "GT",
+    "name": "Guatemala"
+  },
+  {
+    "id": "GG",
+    "name": "Guernsey",
+    "slug": "guernsey",
+    "flag": "🇬🇬",
+    "description": "Public holidays and observances in Guernsey.",
+    "faqs": []
+  },
+  {
+    "id": "GN",
+    "name": "Guinea"
+  },
+  {
+    "id": "GW",
+    "name": "Guinea-Bissau"
+  },
+  {
+    "id": "GY",
+    "name": "Guyana"
+  },
+  {
+    "id": "GF",
+    "name": "Guyane"
+  },
+  {
+    "id": "HT",
+    "name": "Haiti"
+  },
+  {
+    "id": "HN",
+    "name": "Honduras"
+  },
+  {
+    "id": "HK",
+    "name": "Hong Kong"
+  },
+  {
+    "id": "HU",
+    "name": "Hungary"
+  },
+  {
+    "id": "IS",
+    "name": "Iceland"
+  },
+  {
+    "id": "IN",
+    "name": "India"
+  },
+  {
+    "id": "ID",
+    "name": "Indonesia"
+  },
+  {
+    "id": "IR",
+    "name": "Iran"
+  },
+  {
+    "id": "IE",
+    "name": "Ireland"
+  },
+  {
+    "id": "IM",
+    "name": "Isle of Man",
+    "slug": "isle-of-man",
+    "flag": "🇮🇲",
+    "description": "Public holidays and observances in Isle of Man.",
+    "faqs": []
+  },
+  {
+    "id": "IL",
+    "name": "Israel"
+  },
+  {
+    "id": "IT",
+    "name": "Italy"
+  },
+  {
+    "id": "JM",
+    "name": "Jamaica"
+  },
+  {
+    "id": "JP",
+    "name": "Japan"
+  },
+  {
+    "id": "JE",
+    "name": "Jersey",
+    "slug": "jersey",
+    "flag": "🇯🇪",
+    "description": "Public holidays and observances in Jersey.",
+    "faqs": []
+  },
+  {
+    "id": "GL",
+    "name": "Kalaallit Nunaat"
+  },
+  {
+    "id": "KZ",
+    "name": "Kazakhstan"
+  },
+  {
+    "id": "KE",
+    "name": "Kenya"
+  },
+  {
+    "id": "XK",
+    "name": "Kosovo"
+  },
+  {
+    "id": "LV",
+    "name": "Latvia"
+  },
+  {
+    "id": "LS",
+    "name": "Lesotho"
+  },
+  {
+    "id": "LR",
+    "name": "Liberia"
+  },
+  {
+    "id": "LY",
+    "name": "Libya"
+  },
+  {
+    "id": "LI",
+    "name": "Liechtenstein"
+  },
+  {
+    "id": "LT",
+    "name": "Lithuania"
+  },
+  {
+    "id": "LU",
+    "name": "Luxembourg"
+  },
+  {
+    "id": "MG",
+    "name": "Madagascar"
+  },
+  {
+    "id": "MW",
+    "name": "Malawi"
+  },
+  {
+    "id": "MY",
+    "name": "Malaysia"
+  },
+  {
+    "id": "ML",
+    "name": "Mali"
+  },
+  {
+    "id": "MT",
+    "name": "Malta"
+  },
+  {
+    "id": "MQ",
+    "name": "Martinique"
+  },
+  {
+    "id": "MR",
+    "name": "Mauritania"
+  },
+  {
+    "id": "MU",
+    "name": "Mauritius"
+  },
+  {
+    "id": "YT",
+    "name": "Mayotte",
+    "slug": "mayotte",
+    "flag": "🇾🇹",
+    "description": "Public holidays and observances in Mayotte.",
+    "faqs": []
+  },
+  {
+    "id": "MX",
+    "name": "Mexico"
+  },
+  {
+    "id": "MD",
+    "name": "Moldova"
+  },
+  {
+    "id": "MC",
+    "name": "Monaco"
+  },
+  {
+    "id": "MN",
+    "name": "Mongolia"
+  },
+  {
+    "id": "ME",
+    "name": "Montenegro"
+  },
+  {
+    "id": "MS",
+    "name": "Montserrat"
+  },
+  {
+    "id": "MA",
+    "name": "Morocco"
+  },
+  {
+    "id": "MZ",
+    "name": "Mozambique"
+  },
+  {
+    "id": "MM",
+    "name": "Myanmar"
+  },
+  {
+    "id": "NA",
+    "name": "Namibia"
+  },
+  {
+    "id": "NP",
+    "name": "Nepal"
+  },
+  {
+    "id": "NL",
+    "name": "Netherlands"
+  },
+  {
+    "id": "NC",
+    "name": "New Caledonia"
+  },
+  {
+    "id": "NZ",
+    "name": "New Zealand"
+  },
+  {
+    "id": "NI",
+    "name": "Nicaragua"
+  },
+  {
+    "id": "NE",
+    "name": "Niger"
+  },
+  {
+    "id": "NG",
+    "name": "Nigeria"
+  },
+  {
+    "id": "NF",
+    "name": "Norfolk Island"
+  },
+  {
+    "id": "MK",
+    "name": "North Macedonia"
+  },
+  {
+    "id": "NO",
+    "name": "Norway"
+  },
+  {
+    "id": "PK",
+    "name": "Pakistan"
+  },
+  {
+    "id": "PA",
+    "name": "Panama"
+  },
+  {
+    "id": "PY",
+    "name": "Paraguay"
+  },
+  {
+    "id": "PE",
+    "name": "Peru"
+  },
+  {
+    "id": "PH",
+    "name": "Philippines"
+  },
+  {
+    "id": "PL",
+    "name": "Poland"
+  },
+  {
+    "id": "PT",
+    "name": "Portugal"
+  },
+  {
+    "id": "PR",
+    "name": "Puerto Rico"
+  },
+  {
+    "id": "CG",
+    "name": "Republic of the Congo"
+  },
+  {
+    "id": "RE",
+    "name": "Réunion",
+    "slug": "r-union",
+    "flag": "🇷🇪",
+    "description": "Public holidays and observances in Réunion.",
+    "faqs": []
+  },
+  {
+    "id": "RO",
+    "name": "Romania"
+  },
+  {
+    "id": "RU",
+    "name": "Russia"
+  },
+  {
+    "id": "RW",
+    "name": "Rwanda"
+  },
+  {
+    "id": "SH",
+    "name": "Saint Helena",
+    "slug": "saint-helena",
+    "flag": "🇸🇭",
+    "description": "Public holidays and observances in Saint Helena.",
+    "faqs": []
+  },
+  {
+    "id": "KN",
+    "name": "Saint Kitts and Nevis"
+  },
+  {
+    "id": "LC",
+    "name": "Saint Lucia"
+  },
+  {
+    "id": "MF",
+    "name": "Saint Martin"
+  },
+  {
+    "id": "VC",
+    "name": "Saint Vincent and the Grenadines"
+  },
+  {
+    "id": "SM",
+    "name": "San Marino"
+  },
+  {
+    "id": "ST",
+    "name": "São Tomé and Príncipe"
+  },
+  {
+    "id": "SA",
+    "name": "Saudi Arabia"
+  },
+  {
+    "id": "SN",
+    "name": "Senegal"
+  },
+  {
+    "id": "RS",
+    "name": "Serbia"
+  },
+  {
+    "id": "SC",
+    "name": "Seychelles"
+  },
+  {
+    "id": "SL",
+    "name": "Sierra Leone"
+  },
+  {
+    "id": "SG",
+    "name": "Singapore"
+  },
+  {
+    "id": "SX",
+    "name": "Sint Maarten"
+  },
+  {
+    "id": "SK",
+    "name": "Slovakia"
+  },
+  {
+    "id": "SI",
+    "name": "Slovenia"
+  },
+  {
+    "id": "SO",
+    "name": "Somalia"
+  },
+  {
+    "id": "ZA",
+    "name": "South Africa"
+  },
+  {
+    "id": "KR",
+    "name": "South Korea"
+  },
+  {
+    "id": "SS",
+    "name": "South Sudan"
+  },
+  {
+    "id": "ES",
+    "name": "Spain"
+  },
+  {
+    "id": "LK",
+    "name": "Sri Lanka"
+  },
+  {
+    "id": "BL",
+    "name": "St. Barthélemy"
+  },
+  {
+    "id": "PM",
+    "name": "St. Pierre & Miquelon"
+  },
+  {
+    "id": "SD",
+    "name": "Sudan"
+  },
+  {
+    "id": "SR",
+    "name": "Suriname"
+  },
+  {
+    "id": "SJ",
+    "name": "Svalbard and Jan Mayen",
+    "slug": "svalbard-and-jan-mayen",
+    "flag": "🇸🇯",
+    "description": "Public holidays and observances in Svalbard and Jan Mayen.",
+    "faqs": []
+  },
+  {
+    "id": "SE",
+    "name": "Sweden"
+  },
+  {
+    "id": "CH",
+    "name": "Switzerland"
+  },
+  {
+    "id": "TW",
+    "name": "Taiwan"
+  },
+  {
+    "id": "TZ",
+    "name": "Tanzania"
+  },
+  {
+    "id": "TH",
+    "name": "Thailand"
+  },
+  {
+    "id": "TG",
+    "name": "Togo"
+  },
+  {
+    "id": "TO",
+    "name": "Tonga"
+  },
+  {
+    "id": "TT",
+    "name": "Trinidad and Tobago"
+  },
+  {
+    "id": "TN",
+    "name": "Tunisia"
+  },
+  {
+    "id": "TR",
+    "name": "Turkey"
+  },
+  {
+    "id": "TC",
+    "name": "Turks & Caicos Islands"
+  },
+  {
+    "id": "VI",
+    "name": "U.S. Virgin Islands"
+  },
+  {
+    "id": "UG",
+    "name": "Uganda"
+  },
+  {
+    "id": "UA",
+    "name": "Ukraine"
+  },
+  {
+    "id": "AE",
+    "name": "United Arab Emirates"
+  },
+  {
+    "id": "GB",
+    "name": "United Kingdom"
+  },
+  {
+    "id": "US",
+    "name": "United States"
+  },
+  {
+    "id": "UY",
+    "name": "Uruguay"
+  },
+  {
+    "id": "UZ",
+    "name": "Uzbekistan"
+  },
+  {
+    "id": "VU",
+    "name": "Vanuatu"
+  },
+  {
+    "id": "VA",
+    "name": "Vatican City"
+  },
+  {
+    "id": "VE",
+    "name": "Venezuela"
+  },
+  {
+    "id": "VN",
+    "name": "Vietnam"
+  },
+  {
+    "id": "WF",
+    "name": "Wallis and Futuna"
+  },
+  {
+    "id": "EH",
+    "name": "Western Sahara",
+    "slug": "western-sahara",
+    "flag": "🇪🇭",
+    "description": "Public holidays and observances in Western Sahara.",
+    "faqs": []
+  },
+  {
+    "id": "ZM",
+    "name": "Zambia"
+  },
+  {
+    "id": "ZW",
+    "name": "Zimbabwe"
+  }
+]

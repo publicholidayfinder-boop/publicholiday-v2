@@ -1,0 +1,77 @@
+{
+  "id": "DM",
+  "name": "Dominica",
+  "description": {
+    "en": "Dominica observes a set of national public holidays that reflect its history, culture, and traditions. These holidays shape everyday life, affecting work schedules, school terms, travel plans, and the availability of government and public services across the country.",
+    "es": "Dominica observa un conjunto de dÃ­as festivos nacionales que reflejan su historia, cultura y tradiciones. Estos dÃ­as festivos dan forma a la vida cotidiana, afectando los horarios de trabajo, los perÃ­odos escolares, los planes de viaje y la disponibilidad de servicios gubernamentales y pÃºblicos en todo el paÃ­s.",
+    "fr": "Dominica observe un ensemble de jours fÃ©riÃ©s nationaux qui reflÃ¨tent son histoire, sa culture et ses traditions. Ces jours fÃ©riÃ©s faÃ§onnent la vie quotidienne, affectant les horaires de travail, les pÃ©riodes scolaires, les plans de voyage et la disponibilitÃ© des services gouvernementaux et publics dans tout le pays.",
+    "de": "Dominica beobachtet eine Reihe nationaler Feiertage, die seine Geschichte, Kultur und Traditionen widerspiegeln. Diese Feiertage prÃ¤gen das tÃ¤gliche Leben und beeinflussen Arbeitszeiten, Schulzeiten, ReiseplÃ¤ne und die VerfÃ¼gbarkeit von Regierungs- und Ã¶ffentlichen Diensten im ganzen Land.",
+    "pt": "Dominica observa um conjunto de feriados nacionais que refletem sua histÃ³ria, cultura e tradiÃ§Ãµes. Esses feriados moldam a vida cotidiana, afetando horÃ¡rios de trabalho, perÃ­odos escolares, planos de viagem e a disponibilidade de serviÃ§os governamentais e pÃºblicos em todo o paÃ­s.",
+    "zh": "Dominicaåº†ç¥ä¸€ç³»åˆ—åæ˜ å…¶åŽ†å²ã€æ–‡åŒ–å’Œä¼ ç»Ÿçš„å›½å®¶å…¬å…±å‡æ—¥ã€‚è¿™äº›å‡æ—¥å½±å“æ—¥å¸¸ç”Ÿæ´»ï¼ŒåŒ…æ‹¬å·¥ä½œæ—¶é—´è¡¨ã€å­¦æœŸã€æ—…è¡Œè®¡åˆ’ä»¥åŠå…¨å›½å„åœ°æ”¿åºœå’Œå…¬å…±æœåŠ¡çš„å¯ç”¨æ€§ã€‚",
+    "ar": "ØªØ­ØªÙÙ„ Dominica Ø¨Ù…Ø¬Ù…ÙˆØ¹Ø© Ù…Ù† Ø§Ù„Ø£Ø¹ÙŠØ§Ø¯ Ø§Ù„ÙˆØ·Ù†ÙŠØ© Ø§Ù„ØªÙŠ ØªØ¹ÙƒØ³ ØªØ§Ø±ÙŠØ®Ù‡Ø§ ÙˆØ«Ù‚Ø§ÙØªÙ‡Ø§ ÙˆØªÙ‚Ø§Ù„ÙŠØ¯Ù‡Ø§. ØªØ¤Ø«Ø± Ù‡Ø°Ù‡ Ø§Ù„Ø£Ø¹ÙŠØ§Ø¯ Ø¹Ù„Ù‰ Ø§Ù„Ø­ÙŠØ§Ø© Ø§Ù„ÙŠÙˆÙ…ÙŠØ©ØŒ Ø¨Ù…Ø§ ÙÙŠ Ø°Ù„Ùƒ Ø¬Ø¯Ø§ÙˆÙ„ Ø§Ù„Ø¹Ù…Ù„ ÙˆØ§Ù„ÙØµÙˆÙ„ Ø§Ù„Ø¯Ø±Ø§Ø³ÙŠØ© ÙˆØ®Ø·Ø· Ø§Ù„Ø³ÙØ± ÙˆØªÙˆØ§ÙØ± Ø§Ù„Ø®Ø¯Ù…Ø§Øª Ø§Ù„Ø­ÙƒÙˆÙ…ÙŠØ© ÙˆØ§Ù„Ø¹Ø§Ù…Ø© ÙÙŠ Ø¬Ù…ÙŠØ¹ Ø£Ù†Ø­Ø§Ø¡ Ø§Ù„Ø¨Ù„Ø§Ø¯.",
+    "ja": "Dominicaã¯ã€ãã®æ­´å²ã€æ–‡åŒ–ã€ä¼çµ±ã‚’åæ˜ ã—ãŸå›½å®¶çš„ãªç¥æ—¥ã‚’è¨­ã‘ã¦ã„ã¾ã™ã€‚ã“ã‚Œã‚‰ã®ç¥æ—¥ã¯ã€å…¨å›½ã®å‹¤å‹™ã‚¹ã‚±ã‚¸ãƒ¥ãƒ¼ãƒ«ã€å­¦æœŸã€æ—…è¡Œè¨ˆç”»ã€æ”¿åºœãƒ»å…¬å…±ã‚µãƒ¼ãƒ“ã‚¹ã®åˆ©ç”¨å¯èƒ½æ€§ã«å½±éŸ¿ã‚’ä¸Žãˆã€æ—¥å¸¸ç”Ÿæ´»ã‚’å½¢ä½œã£ã¦ã„ã¾ã™ã€‚"
+  },
+  "sections": [
+    {
+      "title": "About Dominica",
+      "content": "Dominica, officially the Commonwealth of Dominica, is an island country in the Caribbean. It is part of the Windward Islands chain in the Lesser Antilles archipelago in the Caribbean Sea. The capital, Roseau, is located on the western side of the island. Dominica's closest neighbours are two constituent territories of the European Union, both overseas departments of France: Guadeloupe to the northwest and Martinique to the south-southeast. Dominica comprises a land area of 750 km2 (290 sq mi), and the highest point is Morne Diablotins, at 1,448 m (4,751 ft) in elevation. The population was 71,293 at the 2011 census."
+    },
+    {
+      "title": "Important Notice",
+      "content": "Public holiday dates and observance rules can change, especially when holidays fall on weekends. Always confirm critical dates with official Dominica government sources when planning travel, payroll, or business operations."
+    },
+    {
+      "title": "How Public Holidays Are Observed in Dominica",
+      "content": "On most public holidays in Dominica:\n\nGovernment offices and banks are closed.\nSchools are closed.\nSome businesses operate reduced hours.\nPublic transport and retail services may run modified schedules.\nPrivate businesses are not always required to close but often adjust operating hours."
+    },
+    {
+      "title": "Why Dominica's Public Holidays Matter",
+      "content": "Understanding Dominica's public holidays helps with:\n\nBusiness and payroll planning.\nSchool and academic scheduling.\nTravel and accommodation planning.\nAvoiding service disruptions.\nBoth residents and visitors benefit from knowing when closures and peak travel periods are likely."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Dominica?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Dominica?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Dominica?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Dominica?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Dominica?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

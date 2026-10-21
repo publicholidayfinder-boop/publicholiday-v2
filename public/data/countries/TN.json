@@ -1,0 +1,73 @@
+{
+  "id": "TN",
+  "name": "Tunisia",
+  "description": {
+    "en": "Tunisia observes several public holidays each year that affect work schedules, school calendars, travel plans, and government services. These holidays reflect the country's history, religious diversity, and the importance of national traditions.",
+    "es": "Tunisia observa varios días festivos cada año que afectan los horarios de trabajo, calendarios escolares, planes de viaje y servicios gubernamentales.",
+    "fr": "Tunisia observe plusieurs jours fériés chaque année qui affectent les horaires de travail, les calendriers scolaires, les plans de voyage et les services gouvernementaux.",
+    "de": "Tunisia beobachtet mehrere Feiertage pro Jahr, die Arbeitszeiten, Schulkalender, Reisepläne und Regierungsdienste beeinflussen.",
+    "pt": "Tunisia observa vários feriados públicos a cada ano que afetam horários de trabalho, calendários escolares, planos de viagem e serviços governamentais.",
+    "zh": "Tunisia每年都会庆祝几个公共假日，这些假日会影响工作时间表、学校日历、旅行计划和政府服务。",
+    "ar": "تحتفل Tunisia بعدة أيام عطلة رسمية كل عام تؤثر على جداول العمل والتقويمات المدرسية وخطط السفر والخدمات الحكومية.",
+    "ja": "Tunisiaは毎年いくつかの祝日を定めており、これらは勤務スケジュール、学校カレンダー、旅行計画、政府サービスに影響を与えます。"
+  },
+  "sections": [
+    {
+      "title": "About Tunisia",
+      "content": "Tunisia is a country located in North Africa, rich in history and culture. Its public holidays commemorate national milestones, religious observances, and cultural traditions."
+    },
+    {
+      "title": "How Public Holidays Affect Daily Life in Tunisia",
+      "content": "On most public holidays, government offices and public schools are closed, while banks and some businesses operate on reduced hours. Travel activity tends to increase significantly during major festive seasons.\n\nPrivate businesses may choose whether or not to operate, often depending on company policy."
+    },
+    {
+      "title": "Why Knowing Tunisia's Public Holidays Matters",
+      "content": "Accurate holiday information helps with business planning, payroll management, and academic scheduling. It is also crucial for travel and accommodation planning to avoid delays in official or financial processes."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Tunisia?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Tunisia?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Tunisia?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Tunisia?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Tunisia?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

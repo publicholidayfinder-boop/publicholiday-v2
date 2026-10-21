@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <!-- Dark gradient background -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e3a5f;stop-opacity:1" />
+    </linearGradient>
+    <!-- Accent gradient -->
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0ea5e9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6366f1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e293b;stop-opacity:0.95" />
+      <stop offset="100%" style="stop-color:#0f172a;stop-opacity:0.95" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)" />
+
+  <!-- Decorative circles -->
+  <circle cx="1050" cy="100" r="200" fill="#0ea5e9" opacity="0.06"/>
+  <circle cx="150" cy="530" r="150" fill="#6366f1" opacity="0.06"/>
+
+  <!-- Accent bar top -->
+  <rect x="0" y="0" width="1200" height="6" fill="url(#accent)" />
+
+  <!-- Card -->
+  <rect x="80" y="80" width="1040" height="470" rx="24" fill="url(#cardBg)" filter="url(#shadow)" />
+
+  <!-- Left accent strip -->
+  <rect x="80" y="80" width="6" height="470" rx="3" fill="url(#accent)" />
+
+  <!-- Flag emoji -->
+  <text x="170" y="280" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif"
+        font-size="120" text-anchor="start" dominant-baseline="middle">🇮🇪</text>
+
+  <!-- Country name -->
+  <text x="330" y="230" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif"
+        font-size="72" font-weight="800" fill="#f8fafc"
+        text-anchor="start" dominant-baseline="middle">Ireland</text>
+
+  <!-- Subtitle -->
+  <text x="330" y="315" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif"
+        font-size="36" font-weight="400" fill="#94a3b8"
+        text-anchor="start" dominant-baseline="middle">Public Holidays 2026</text>
+
+  <!-- Divider line -->
+  <line x1="330" y1="365" x2="1080" y2="365" stroke="#334155" stroke-width="1.5"/>
+
+  <!-- Holiday count badge -->
+  <rect x="330" y="385" width="220" height="52" rx="12" fill="#0ea5e9" opacity="0.15" />
+  <text x="440" y="411" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif"
+        font-size="22" font-weight="700" fill="#38bdf8"
+        text-anchor="middle" dominant-baseline="middle">🗓 10 Holidays</text>
+
+  <!-- Free badge -->
+  <rect x="568" y="385" width="140" height="52" rx="12" fill="#10b981" opacity="0.15" />
+  <text x="638" y="411" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif"
+        font-size="22" font-weight="700" fill="#34d399"
+        text-anchor="middle" dominant-baseline="middle">✓ Free</text>
+
+  <!-- Branding -->
+  <text x="600" y="508" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif"
+        font-size="26" font-weight="700" fill="#475569"
+        text-anchor="middle" dominant-baseline="middle">publicholidayfinder.com</text>
+</svg>

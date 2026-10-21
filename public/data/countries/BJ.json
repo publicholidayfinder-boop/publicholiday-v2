@@ -1,0 +1,62 @@
+{
+  "id": "BJ",
+  "name": "Benin",
+  "description": {
+    "en": "Benin observes a mix of national and religious public holidays that reflect its history, culture, and diverse traditions. These holidays influence work schedules, school terms, travel plans, and the availability of public services."
+  },
+  "sections": [
+    {
+      "title": "About Benin",
+      "content": "Benin, officially the Republic of Benin, formerly known as Dahomey, is a country in West Africa. Benin is bordered by Togo to the west, Nigeria to the east, Burkina Faso to the northwest, and Niger to the northeast. The majority of its population lives on the southern coastline of the Bight of Benin, part of the Gulf of Guinea in the northernmost tropical portion of the Atlantic Ocean. The capital is Porto-Novo, and the seat of government is in Cotonou, the most populous city and economic capital. Benin covers an area of 112,622 km2 (43,484 sq mi), and its population in 2021 was estimated to be approximately 13 million. It is a tropical country with an economy heavily dependent on agriculture and the exports of palm oil and cotton."
+    },
+    {
+      "title": "How Public Holidays Are Observed in Benin",
+      "content": "On most public holidays in Benin, government offices, schools, and banks are closed. Many private businesses also close or operate on reduced hours."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Benin?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Benin?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Benin?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Benin?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Benin?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

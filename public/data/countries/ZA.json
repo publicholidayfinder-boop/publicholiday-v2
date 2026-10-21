@@ -1,0 +1,73 @@
+{
+  "id": "ZA",
+  "name": "South Africa",
+  "description": {
+    "en": "South Africa observes a variety of public holidays that reflect its diverse cultural heritage, history of liberation, and commitment to human rights. These holidays affect government services, school calendars, and business operations across the nation.",
+    "es": "SudÃ¡frica observa una variedad de dÃ­as festivos que reflejan su diversa herencia cultural, historia de liberaciÃ³n y compromiso con los derechos humanos. Estos dÃ­as festivos afectan los servicios gubernamentales, calendarios escolares y operaciones comerciales en toda la naciÃ³n.",
+    "fr": "L'Afrique du Sud observe une variÃ©tÃ© de jours fÃ©riÃ©s qui reflÃ¨tent son hÃ©ritage culturel diversifiÃ©, son histoire de libÃ©ration et son engagement envers les droits de l'homme. Ces jours fÃ©riÃ©s affectent les services gouvernementaux, les calendriers scolaires et les opÃ©rations commerciales Ã  travers le pays.",
+    "de": "SÃ¼dafrika beobachtet eine Vielzahl von Feiertagen, die sein vielfÃ¤ltiges kulturelles Erbe, seine Befreiungsgeschichte und sein Engagement fÃ¼r Menschenrechte widerspiegeln. Diese Feiertage beeinflussen Regierungsdienste, Schulkalender und GeschÃ¤ftsablÃ¤ufe im ganzen Land.",
+    "pt": "A Ãfrica do Sul observa uma variedade de feriados pÃºblicos que refletem sua heranÃ§a cultural diversificada, histÃ³ria de libertaÃ§Ã£o e compromisso com os direitos humanos. Esses feriados afetam serviÃ§os governamentais, calendÃ¡rios escolares e operaÃ§Ãµes comerciais em toda a naÃ§Ã£o.",
+    "zh": "å—éžåº†ç¥å„ç§å…¬å…±å‡æ—¥ï¼Œåæ˜ å…¶å¤šå…ƒæ–‡åŒ–é—äº§ã€è§£æ”¾åŽ†å²ä»¥åŠå¯¹äººæƒçš„æ‰¿è¯ºã€‚è¿™äº›å‡æ—¥å½±å“å…¨å›½çš„æ”¿åºœæœåŠ¡ã€å­¦æ ¡æ—¥åŽ†å’Œå•†ä¸šè¿è¥ã€‚",
+    "ar": "ØªØ­ØªÙÙ„ Ø¬Ù†ÙˆØ¨ Ø£ÙØ±ÙŠÙ‚ÙŠØ§ Ø¨Ù…Ø¬Ù…ÙˆØ¹Ø© Ù…ØªÙ†ÙˆØ¹Ø© Ù…Ù† Ø§Ù„Ø¹Ø·Ù„Ø§Øª Ø§Ù„Ø±Ø³Ù…ÙŠØ© Ø§Ù„ØªÙŠ ØªØ¹ÙƒØ³ ØªØ±Ø§Ø«Ù‡Ø§ Ø§Ù„Ø«Ù‚Ø§ÙÙŠ Ø§Ù„Ù…ØªÙ†ÙˆØ¹ ÙˆØªØ§Ø±ÙŠØ® Ø§Ù„ØªØ­Ø±Ø± ÙˆØ§Ù„Ø§Ù„ØªØ²Ø§Ù… Ø¨Ø­Ù‚ÙˆÙ‚ Ø§Ù„Ø¥Ù†Ø³Ø§Ù†. ØªØ¤Ø«Ø± Ù‡Ø°Ù‡ Ø§Ù„Ø¹Ø·Ù„Ø§Øª Ø¹Ù„Ù‰ Ø§Ù„Ø®Ø¯Ù…Ø§Øª Ø§Ù„Ø­ÙƒÙˆÙ…ÙŠØ© ÙˆØ§Ù„ØªÙ‚ÙˆÙŠÙ…Ø§Øª Ø§Ù„Ù…Ø¯Ø±Ø³ÙŠØ© ÙˆØ§Ù„Ø¹Ù…Ù„ÙŠØ§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙÙŠ Ø¬Ù…ÙŠØ¹ Ø£Ù†Ø­Ø§Ø¡ Ø§Ù„Ø¨Ù„Ø§Ø¯.",
+    "ja": "å—éžã¯ã€ãã®å¤šæ§˜ãªæ–‡åŒ–çš„éºç”£ã€è§£æ”¾ã®æ­´å²ã€ãã—ã¦äººæ¨©ã¸ã®å–ã‚Šçµ„ã¿ã‚’åæ˜ ã™ã‚‹ã•ã¾ã–ã¾ãªç¥æ—¥ã‚’å®šã‚ã¦ã„ã¾ã™ã€‚ã“ã‚Œã‚‰ã®ç¥æ—¥ã¯ã€å…¨å›½ã®æ”¿åºœã‚µãƒ¼ãƒ“ã‚¹ã€å­¦æ ¡ã‚«ãƒ¬ãƒ³ãƒ€ãƒ¼ã€ãƒ“ã‚¸ãƒã‚¹é‹å–¶ã«å½±éŸ¿ã‚’ä¸Žãˆã¾ã™ã€‚"
+  },
+  "sections": [
+    {
+      "title": "About South Africa",
+      "content": "South Africa, officially the Republic of South Africa (RSA), is the southernmost country in Africa. Its nine provinces are bounded to the south by 2,798 kilometres of coastline that stretches along the South Atlantic and Indian Ocean; to the north by the neighbouring countries of Namibia, Botswana, and Zimbabwe; to the east and northeast by Mozambique and Eswatini; and it encloses Lesotho. Covering an area of 1,221,037 square kilometres, the country has a population of over 63 million people, making it the sixth-most populated country in Africa. Pretoria is the administrative capital, while Cape Town, as the seat of Parliament, is the legislative capital, and Bloemfontein is regarded as the judicial capital. The largest and most populous city is Johannesburg, followed by Cape Town and Durban."
+    },
+    {
+      "title": "How Public Holidays Are Observed in South Africa",
+      "content": "On public holidays, government offices and schools are closed, and banks typically close. Most retail stores and restaurants remain open, often with reduced hours. If a public holiday falls on a Sunday, the following Monday is observed as a holiday."
+    },
+    {
+      "title": "Why South Africaâ€™s Public Holidays Matter",
+      "content": "Accurate holiday information is essential for business planning, payroll management, and academic scheduling. It also helps residents and visitors plan travel and social activities around these significant national observances."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in South Africa?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in South Africa?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in South Africa?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in South Africa?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in South Africa?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

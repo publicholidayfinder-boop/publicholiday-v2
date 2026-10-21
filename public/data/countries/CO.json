@@ -1,0 +1,70 @@
+{
+  "id": "CO",
+  "name": "Colombia",
+  "description": {
+    "en": "Colombia observes a variety of national and religious public holidays that reflect its rich cultural heritage. These holidays significantly affect business operations, government services, and school terms across the nation."
+  },
+  "sections": [
+    {
+      "title": "About Colombia",
+      "content": "Colombia, officially the Republic of Colombia, is a country located in South America, with insular regions in North America. Colombia's mainland is bordered by the Caribbean Sea to the north, Venezuela to the east, Brazil to the southeast, Peru and Ecuador to the south and southwest, the Pacific Ocean to the west, and Panama to the northwest. Colombia is divided into 32 departments. The Capital District of Bogotá is the country's largest city hosting the main financial and cultural hub. Other urban areas include Medellín, Cali, Barranquilla, Cartagena, Bucaramanga, Pereira, Santa Marta, Cúcuta, Ibagué, Villavicencio and Manizales. It covers an area of 1,141,748 square kilometers and has a population of around 52 million. Its rich cultural heritage—including language, religion, cuisine, and art—reflects its history as a colony, fusing cultural elements brought by immigration from Europe and the Middle East, with those brought by the African diaspora, as well as with those of Indigenous civilizations that predate colonization. Spanish is the official language, although Creole, English and 64 other languages are recognized regionally."
+    },
+    {
+      "title": "Important Notice",
+      "content": "Public holiday dates and observance rules can change, especially when holidays fall on weekends. Always confirm critical dates with official Colombia government sources when planning travel, payroll, or business operations."
+    },
+    {
+      "title": "How Colombia's Public Holidays Are Observed",
+      "content": "On most public and bank holidays:\n\nBanks and government offices are closed.\nSchools are closed.\nSome businesses operate reduced hours.\nPublic transport and retail services may run modified schedules.\nPrivate businesses are not legally required to close but often adjust operating hours."
+    },
+    {
+      "title": "Why Colombia's Public Holidays Matter",
+      "content": "Understanding Colombia's public holidays helps with:\n\nBusiness and payroll planning.\nSchool and academic scheduling.\nTravel and accommodation planning.\nAvoiding service disruptions.\nBoth residents and visitors benefit from knowing when closures and peak travel periods are likely."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Colombia?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Colombia?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Colombia?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Colombia?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Colombia?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

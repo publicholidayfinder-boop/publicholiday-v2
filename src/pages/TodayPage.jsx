@@ -1,0 +1,154 @@
+import { useMemo } from 'react';
+import { useParams, Link } from 'react-router-dom';
+import { useCountry, useHolidays } from '../hooks/useHolidays';
+import { useTranslation } from 'react-i18next';
+import FlagImage from '../components/FlagImage';
+import SEO from '../components/SEO';
+
+export default function TodayPage() {
+    const { countryCode } = useParams();
+    const { i18n } = useTranslation();
+    const { country } = useCountry(countryCode, i18n.language);
+    const today = new Date();
+    const year = today.getFullYear();
+    const todayStr = today.toISOString().split('T')[0];
+    const { holidays, loading } = useHolidays(countryCode, String(year));
+
+    const todaysHolidays = useMemo(() => {
+        if (!holidays) return [];
+        return holidays.filter(h => h.date === todayStr);
+    }, [holidays, todayStr]);
+
+    const publicHolidays = todaysHolidays.filter(h => h.isPublicHoliday || h.type === 'public');
+    const isPublicHoliday = publicHolidays.length > 0;
+    const hasAnyHoliday = todaysHolidays.length > 0;
+    const mainHoliday = publicHolidays[0] || todaysHolidays[0] || null;
+
+    const formattedDate = today.toLocaleDateString('en-US', {
+        weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
+    });
+
+    // Find next upcoming holidays for this country
+    const upcomingHolidays = useMemo(() => {
+        if (!holidays) return [];
+        return holidays
+            .filter(h => h.date > todayStr && (h.isPublicHoliday || h.type === 'public'))
+            .slice(0, 5);
+    }, [holidays, todayStr]);
+
+    const countryName = country?.name || countryCode;
+
+    const seoTitle = isPublicHoliday
+        ? `Yes! It's ${mainHoliday?.name} in ${countryName} Today - PublicHolidayFinder`
+        : `No Public Holiday in ${countryName} Today - PublicHolidayFinder`;
+
+    const seoDesc = isPublicHoliday
+        ? `Today (${formattedDate}) is ${mainHoliday?.name} — a public holiday in ${countryName}.`
+        : `${formattedDate} is not a public holiday in ${countryName}. The next public holiday is ${upcomingHolidays[0]?.name || 'coming soon'}.`;
+
+    return (
+        <>
+            <SEO title={seoTitle} description={seoDesc} />
+            <div className="min-h-screen bg-slate-50">
+                {/* Hero Answer Block */}
+                <div className={`py-16 px-4 text-white text-center ${isPublicHoliday ? 'bg-gradient-to-br from-emerald-500 to-teal-600' : 'bg-gradient-to-br from-slate-600 to-slate-800'}`}>
+                    <div className="container mx-auto max-w-2xl">
+                        {loading ? (
+                            <div className="animate-pulse">
+                                <div className="h-16 bg-white/20 rounded-2xl mb-4 mx-auto w-48"></div>
+                                <div className="h-6 bg-white/20 rounded mx-auto w-64"></div>
+                            </div>
+                        ) : (
+                            <>
+                                {/* Big YES / NO */}
+                                <div className={`text-8xl font-black mb-4 tracking-tight ${isPublicHoliday ? 'text-white' : 'text-slate-300'}`}>
+                                    {isPublicHoliday ? 'YES' : 'NO'}
+                                </div>
+                                {country && (
+                                    <div className="flex items-center justify-center gap-2 mb-2">
+                                        <FlagImage countryCode={countryCode} size="sm" />
+                                        <span className="font-bold text-white/90 text-lg">{countryName}</span>
+                                    </div>
+                                )}
+                                <p className="text-white/80 text-sm mb-6">{formattedDate}</p>
+                                {isPublicHoliday ? (
+                                    <div className="bg-white/15 rounded-2xl px-8 py-5 inline-block">
+                                        <div className="text-2xl font-black text-white">{mainHoliday?.name}</div>
+                                        {publicHolidays.length > 1 && (
+                                            <div className="text-white/80 text-sm mt-1">+{publicHolidays.length - 1} more holiday{publicHolidays.length > 2 ? 's' : ''} today</div>
+                                        )}
+                                        <div className="mt-2 inline-block bg-white text-emerald-700 font-black text-xs px-3 py-1 rounded-full uppercase tracking-widest">
+                                            Public Holiday
+                                        </div>
+                                    </div>
+                                ) : (
+                                    <div className="bg-white/10 rounded-2xl px-8 py-5 inline-block">
+                                        <div className="text-white/80 text-base">
+                                            {hasAnyHoliday ? `There is an observance (${mainHoliday?.name}), but no statutory public holiday.` : 'There are no holidays or observances today.'}
+                                        </div>
+                                    </div>
+                                )}
+                            </>
+                        )}
+                    </div>
+                </div>
+
+                <div className="container mx-auto max-w-2xl px-4 py-10">
+                    {/* All today's holidays */}
+                    {!loading && todaysHolidays.length > 0 && (
+                        <div className="mb-8">
+                            <h2 className="text-sm font-bold uppercase tracking-wider text-slate-500 mb-3">All holidays today</h2>
+                            <div className="space-y-2">
+                                {todaysHolidays.map(h => (
+                                    <div key={h.id} className="bg-white border border-slate-200 rounded-xl px-4 py-3 flex items-center justify-between">
+                                        <span className="font-semibold text-slate-800">{h.name}</span>
+                                        <span className={`text-xs font-bold px-2 py-0.5 rounded-full ${ h.isPublicHoliday || h.type === 'public' ? 'bg-emerald-100 text-emerald-700' : 'bg-slate-100 text-slate-600' }`}>
+                                            {h.isPublicHoliday || h.type === 'public' ? 'Public' : h.type || 'Observance'}
+                                        </span>
+                                    </div>
+                                ))}
+                            </div>
+                        </div>
+                    )}
+
+                    {/* Upcoming holidays */}
+                    {!loading && upcomingHolidays.length > 0 && (
+                        <div className="mb-8">
+                            <h2 className="text-sm font-bold uppercase tracking-wider text-slate-500 mb-3">Upcoming public holidays</h2>
+                            <div className="space-y-2">
+                                {upcomingHolidays.map(h => {
+                                    const d = new Date(h.date + 'T12:00:00');
+                                    const msLeft = d - today;
+                                    const daysLeft = Math.ceil(msLeft / 86400000);
+                                    const formatted = d.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
+                                    return (
+                                        <div key={h.id} className="bg-white border border-slate-200 rounded-xl px-4 py-3 flex items-center justify-between">
+                                            <div>
+                                                <div className="font-semibold text-slate-800">{h.name}</div>
+                                                <div className="text-xs text-slate-500">{formatted}</div>
+                                            </div>
+                                            <div className="text-xs font-bold text-emerald-700 bg-emerald-50 px-2 py-1 rounded-lg flex-shrink-0">
+                                                {daysLeft === 1 ? 'Tomorrow' : `in ${daysLeft} days`}
+                                            </div>
+                                        </div>
+                                    );
+                                })}
+                            </div>
+                        </div>
+                    )}
+
+                    {/* CTAs */}
+                    <div className="flex flex-wrap items-center gap-3">
+                        <Link to={`/country/${countryCode}/${year}`} className="flex items-center gap-2 bg-emerald-600 hover:bg-emerald-700 text-white font-bold px-4 py-2 rounded-lg text-sm transition-all">
+                            View all {year} holidays
+                        </Link>
+                        <Link to="/" className="flex items-center gap-2 bg-white border border-slate-300 hover:border-emerald-400 text-slate-700 font-bold px-4 py-2 rounded-lg text-sm transition-all">
+                            Check another country
+                        </Link>
+                    </div>
+                    <p className="text-xs text-slate-400 mt-4">Bookmark <code className="bg-slate-100 px-1 rounded text-slate-600">/today/{countryCode}</code> to check any time.</p>
+                </div>
+            </div>
+        </>
+    );
+}

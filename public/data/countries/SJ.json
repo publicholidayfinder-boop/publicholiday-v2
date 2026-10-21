@@ -1,0 +1,19 @@
+{
+  "id": "SJ",
+  "name": "Svalbard and Jan Mayen",
+  "slug": "svalbard-and-jan-mayen",
+  "flag": "🇸🇯",
+  "description": "In Svalbard and Jan Mayen, public holidays are celebrated throughout the year. These include statutory national holidays, regional observances, and important cultural or religious festivals where businesses and schools may be closed.",
+  "sections": [
+    {
+      "title": "About Svalbard and Jan Mayen Public Holidays",
+      "content": "Svalbard and Jan Mayen observes several statutory and public holidays. Depending on the specific holiday and local regulations, government offices, banks, and many private businesses may close. Some holidays are celebrated on fixed dates, while others are movable and depend on lunar or religious calendars."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many public holidays does Svalbard and Jan Mayen have?",
+      "answer": "The exact number of public holidays in Svalbard and Jan Mayen can vary from year to year, depending on how movable holidays and weekend substitutions fall on the calendar."
+    }
+  ]
+}

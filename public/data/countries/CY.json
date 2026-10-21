@@ -1,0 +1,62 @@
+{
+  "id": "CY",
+  "name": "Cyprus",
+  "description": {
+    "en": "Cyprus observes a mix of national and regional public holidays that reflect its history, culture, and traditions. These holidays influence work schedules, school terms, travel plans, and the availability of public services."
+  },
+  "sections": [
+    {
+      "title": "About Cyprus",
+      "content": "Cyprus, officially the Republic of Cyprus, is an island country in the eastern Mediterranean Sea, located off the coast of the Levant mainland in West Asia. The island of Cyprus, which is the third largest and third most populous island in the Mediterranean, is divided along the United Nations Buffer Zone between the internationally recognised Republic of Cyprus and the Turkish Republic of Northern Cyprus, which is recognised only by Turkey. The south of the island also hosts the British sovereign military bases of Akrotiri and Dhekelia. The capital and largest city of Cyprus is Nicosia."
+    },
+    {
+      "title": "How Public Holidays Are Observed in Cyprus",
+      "content": "On most public holidays in Cyprus, government offices, schools, and banks are closed. Many private businesses also close or operate on reduced hours."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Cyprus?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Cyprus?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Cyprus?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Cyprus?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Cyprus?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

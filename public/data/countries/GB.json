@@ -1,0 +1,77 @@
+{
+  "id": "GB",
+  "name": "United Kingdom",
+  "description": {
+    "en": "The United Kingdom observes a mix of bank holidays and public holidays that shape everyday life across England, Wales, Scotland, and Northern Ireland. These holidays affect work schedules, school terms, travel plans, and the availability of public services. While many holidays are shared nationwide, some are observed differently depending on the region.",
+    "es": "El Reino Unido observa una combinaciÃ³n de dÃ­as festivos bancarios y pÃºblicos que dan forma a la vida cotidiana en Inglaterra, Gales, Escocia e Irlanda del Norte. Estos dÃ­as festivos afectan los horarios de trabajo, los perÃ­odos escolares, los planes de viaje y la disponibilidad de servicios pÃºblicos. Si bien muchos dÃ­as festivos se comparten a nivel nacional, algunos se observan de manera diferente segÃºn la regiÃ³n.",
+    "fr": "Le Royaume-Uni observe un mÃ©lange de jours fÃ©riÃ©s bancaires et publics qui faÃ§onnent la vie quotidienne en Angleterre, au Pays de Galles, en Ã‰cosse et en Irlande du Nord. Ces jours fÃ©riÃ©s affectent les horaires de travail, les pÃ©riodes scolaires, les plans de voyage et la disponibilitÃ© des services publics. Bien que de nombreux jours fÃ©riÃ©s soient partagÃ©s Ã  l'Ã©chelle nationale, certains sont observÃ©s diffÃ©remment selon la rÃ©gion.",
+    "de": "Das Vereinigte KÃ¶nigreich beobachtet eine Mischung aus Bankfeiertagen und Ã¶ffentlichen Feiertagen, die das tÃ¤gliche Leben in England, Wales, Schottland und Nordirland prÃ¤gen. Diese Feiertage beeinflussen Arbeitszeiten, Schulzeiten, ReiseplÃ¤ne und die VerfÃ¼gbarkeit Ã¶ffentlicher Dienstleistungen. WÃ¤hrend viele Feiertage landesweit geteilt werden, werden einige je nach Region unterschiedlich beobachtet.",
+    "pt": "O Reino Unido observa uma mistura de feriados bancÃ¡rios e pÃºblicos que moldam a vida cotidiana na Inglaterra, PaÃ­s de Gales, EscÃ³cia e Irlanda do Norte. Esses feriados afetam horÃ¡rios de trabalho, perÃ­odos escolares, planos de viagem e a disponibilidade de serviÃ§os pÃºblicos. Embora muitos feriados sejam compartilhados nacionalmente, alguns sÃ£o observados de forma diferente dependendo da regiÃ£o.",
+    "zh": "è‹±å›½åº†ç¥é“¶è¡Œå‡æ—¥å’Œå…¬å…±å‡æ—¥çš„æ··åˆï¼Œè¿™äº›å‡æ—¥å¡‘é€ äº†è‹±æ ¼å…°ã€å¨å°”å£«ã€è‹æ ¼å…°å’ŒåŒ—çˆ±å°”å…°çš„æ—¥å¸¸ç”Ÿæ´»ã€‚è¿™äº›å‡æ—¥å½±å“å·¥ä½œæ—¶é—´è¡¨ã€å­¦æœŸã€æ—…è¡Œè®¡åˆ’å’Œå…¬å…±æœåŠ¡çš„å¯ç”¨æ€§ã€‚è™½ç„¶è®¸å¤šå‡æ—¥åœ¨å…¨å›½èŒƒå›´å†…å…±äº«ï¼Œä½†æœ‰äº›å‡æ—¥æ ¹æ®åœ°åŒºçš„ä¸åŒè€Œæœ‰æ‰€ä¸åŒã€‚",
+    "ar": "ØªØ­ØªÙÙ„ Ø§Ù„Ù…Ù…Ù„ÙƒØ© Ø§Ù„Ù…ØªØ­Ø¯Ø© Ø¨Ù…Ø²ÙŠØ¬ Ù…Ù† Ø§Ù„Ø¹Ø·Ù„Ø§Øª Ø§Ù„Ù…ØµØ±ÙÙŠØ© ÙˆØ§Ù„Ø¹Ø·Ù„Ø§Øª Ø§Ù„Ø¹Ø§Ù…Ø© Ø§Ù„ØªÙŠ ØªØ´ÙƒÙ„ Ø§Ù„Ø­ÙŠØ§Ø© Ø§Ù„ÙŠÙˆÙ…ÙŠØ© ÙÙŠ Ø¥Ù†Ø¬Ù„ØªØ±Ø§ ÙˆÙˆÙŠÙ„Ø² ÙˆØ§Ø³ÙƒØªÙ„Ù†Ø¯Ø§ ÙˆØ£ÙŠØ±Ù„Ù†Ø¯Ø§ Ø§Ù„Ø´Ù…Ø§Ù„ÙŠØ©. ØªØ¤Ø«Ø± Ù‡Ø°Ù‡ Ø§Ù„Ø¹Ø·Ù„Ø§Øª Ø¹Ù„Ù‰ Ø¬Ø¯Ø§ÙˆÙ„ Ø§Ù„Ø¹Ù…Ù„ ÙˆØ§Ù„ÙØµÙˆÙ„ Ø§Ù„Ø¯Ø±Ø§Ø³ÙŠØ© ÙˆØ®Ø·Ø· Ø§Ù„Ø³ÙØ± ÙˆØªÙˆØ§ÙØ± Ø§Ù„Ø®Ø¯Ù…Ø§Øª Ø§Ù„Ø¹Ø§Ù…Ø©. ÙÙŠ Ø­ÙŠÙ† ÙŠØªÙ… Ù…Ø´Ø§Ø±ÙƒØ© Ø§Ù„Ø¹Ø¯ÙŠØ¯ Ù…Ù† Ø§Ù„Ø¹Ø·Ù„Ø§Øª Ø¹Ù„Ù‰ Ø§Ù„ØµØ¹ÙŠØ¯ Ø§Ù„ÙˆØ·Ù†ÙŠØŒ ÙŠØªÙ… Ø§Ù„Ø§Ø­ØªÙØ§Ù„ Ø¨Ø¨Ø¹Ø¶Ù‡Ø§ Ø¨Ø´ÙƒÙ„ Ù…Ø®ØªÙ„Ù Ø­Ø³Ø¨ Ø§Ù„Ù…Ù†Ø·Ù‚Ø©.",
+    "ja": "è‹±å›½ã¯ã€ã‚¤ãƒ³ã‚°ãƒ©ãƒ³ãƒ‰ã€ã‚¦ã‚§ãƒ¼ãƒ«ã‚ºã€ã‚¹ã‚³ãƒƒãƒˆãƒ©ãƒ³ãƒ‰ã€åŒ—ã‚¢ã‚¤ãƒ«ãƒ©ãƒ³ãƒ‰å…¨ä½“ã®æ—¥å¸¸ç”Ÿæ´»ã‚’å½¢ä½œã‚‹éŠ€è¡Œä¼‘æ—¥ã¨ç¥æ—¥ã®çµ„ã¿åˆã‚ã›ã‚’å®šã‚ã¦ã„ã¾ã™ã€‚ã“ã‚Œã‚‰ã®ç¥æ—¥ã¯ã€å‹¤å‹™ã‚¹ã‚±ã‚¸ãƒ¥ãƒ¼ãƒ«ã€å­¦æœŸã€æ—…è¡Œè¨ˆç”»ã€å…¬å…±ã‚µãƒ¼ãƒ“ã‚¹ã®åˆ©ç”¨å¯èƒ½æ€§ã«å½±éŸ¿ã‚’ä¸Žãˆã¾ã™ã€‚å¤šãã®ç¥æ—¥ã¯å…¨å›½çš„ã«å…±æœ‰ã•ã‚Œã¦ã„ã¾ã™ãŒã€ä¸€éƒ¨ã¯åœ°åŸŸã«ã‚ˆã£ã¦ç•°ãªã‚‹æ–¹æ³•ã§è¦³å¯Ÿã•ã‚Œã¾ã™ã€‚"
+  },
+  "sections": [
+    {
+      "title": "About United Kingdom",
+      "content": "The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK) or Britain, is a country in northwestern Europe, off the coast of the continental mainland. It comprises England, Scotland, Wales and Northern Ireland, with a population of over 69 million in 2024. The UK includes the island of Great Britain, the north-eastern part of the island of Ireland, and most of the smaller islands within the British Isles, covering 94,354 square miles (244,376 km2). It shares a land border with the Republic of Ireland and is surrounded by the Atlantic Ocean, the North Sea, the English Channel, the Celtic Sea and the Irish Sea, while maintaining sovereignty over the Crown Dependencies and the British Overseas Territories. The capital and largest city of England and the UK is London; Edinburgh, Cardiff and Belfast are the national capitals of Scotland, Wales and Northern Ireland, respectively."
+    },
+    {
+      "title": "Important Notice",
+      "content": "Public holiday dates and observance rules can change, especially when holidays fall on weekends. Always confirm critical dates with official UK government sources when planning travel, payroll, or business operations."
+    },
+    {
+      "title": "How UK Public Holidays Are Observed",
+      "content": "On most public and bank holidays:\n\nBanks and government offices are closed.\nSchools are closed.\nSome businesses operate reduced hours.\nPublic transport and retail services may run modified schedules.\nPrivate businesses are not legally required to close but often adjust operating hours."
+    },
+    {
+      "title": "Why UK Public Holidays Matter",
+      "content": "Understanding UK public holidays helps with:\n\nBusiness and payroll planning.\nSchool and academic scheduling.\nTravel and accommodation planning.\nAvoiding service disruptions.\nBoth residents and visitors benefit from knowing when closures and peak travel periods are likely."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in United Kingdom?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in United Kingdom?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in United Kingdom?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in United Kingdom?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in United Kingdom?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "BF",
+  "name": "Burkina Faso",
+  "description": {
+    "en": "Burkina Faso observes a mix of national and religious public holidays that reflect its history, culture, and diverse traditions. These holidays influence work schedules, school terms, travel plans, and the availability of public services."
+  },
+  "sections": [
+    {
+      "title": "About Burkina Faso",
+      "content": "Burkina Faso is a landlocked country in West Africa. It is bordered by Mali to the northwest, Niger to the northeast, Benin to the southeast, Togo and Ghana to the south, and Ivory Coast to the southwest. It covers an area of 274,223 km2. In 2024, the country had an estimated population of approximately 23,286,000. After independence it was called the Republic of Upper Volta from 1958 to 1984. It was renamed Burkina Faso by then-president Thomas Sankara. Its citizens are known as Burkinabes, and its capital and largest city is Ouagadougou."
+    },
+    {
+      "title": "How Public Holidays Are Observed in Burkina Faso",
+      "content": "On most public holidays in Burkina Faso, government offices, schools, and banks are closed. Many private businesses also close or operate on reduced hours."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Burkina Faso?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Burkina Faso?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Burkina Faso?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Burkina Faso?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Burkina Faso?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "US",
+  "name": "United States",
+  "description": {
+    "en": "The United States observes several federal public holidays each year that reflect the nation's history, democratic values, military service, and cultural traditions. These holidays affect government operations, school schedules, banking services, and many workplaces across the country.",
+    "es": "Estados Unidos observa varios dÃ­as festivos federales cada aÃ±o que reflejan la historia de la naciÃ³n, los valores democrÃ¡ticos, el servicio militar y las tradiciones culturales. Estos dÃ­as festivos afectan las operaciones gubernamentales, los horarios escolares, los servicios bancarios y muchos lugares de trabajo en todo el paÃ­s.",
+    "fr": "Les Ã‰tats-Unis observent plusieurs jours fÃ©riÃ©s fÃ©dÃ©raux chaque annÃ©e qui reflÃ¨tent l'histoire de la nation, les valeurs dÃ©mocratiques, le service militaire et les traditions culturelles. Ces jours fÃ©riÃ©s affectent les opÃ©rations gouvernementales, les horaires scolaires, les services bancaires et de nombreux lieux de travail Ã  travers le pays.",
+    "de": "Die Vereinigten Staaten beobachten mehrere bundesweite Feiertage pro Jahr, die die Geschichte der Nation, demokratische Werte, MilitÃ¤rdienst und kulturelle Traditionen widerspiegeln. Diese Feiertage beeinflussen Regierungsoperationen, SchulplÃ¤ne, Bankdienstleistungen und viele ArbeitsplÃ¤tze im ganzen Land.",
+    "pt": "Os Estados Unidos observam vÃ¡rios feriados federais a cada ano que refletem a histÃ³ria da naÃ§Ã£o, valores democrÃ¡ticos, serviÃ§o militar e tradiÃ§Ãµes culturais. Esses feriados afetam operaÃ§Ãµes governamentais, horÃ¡rios escolares, serviÃ§os bancÃ¡rios e muitos locais de trabalho em todo o paÃ­s.",
+    "zh": "ç¾Žå›½æ¯å¹´åº†ç¥å‡ ä¸ªè”é‚¦å…¬å…±å‡æ—¥ï¼Œåæ˜ å›½å®¶çš„åŽ†å²ã€æ°‘ä¸»ä»·å€¼è§‚ã€å†›äº‹æœåŠ¡å’Œæ–‡åŒ–ä¼ ç»Ÿã€‚è¿™äº›å‡æ—¥å½±å“å…¨å›½çš„æ”¿åºœè¿è¥ã€å­¦æ ¡æ—¶é—´è¡¨ã€é“¶è¡ŒæœåŠ¡å’Œè®¸å¤šå·¥ä½œåœºæ‰€ã€‚",
+    "ar": "ØªØ­ØªÙÙ„ Ø§Ù„ÙˆÙ„Ø§ÙŠØ§Øª Ø§Ù„Ù…ØªØ­Ø¯Ø© Ø¨Ø¹Ø¯Ø© Ø£ÙŠØ§Ù… Ø¹Ø·Ù„Ø© ÙÙŠØ¯Ø±Ø§Ù„ÙŠØ© ÙƒÙ„ Ø¹Ø§Ù… ØªØ¹ÙƒØ³ ØªØ§Ø±ÙŠØ® Ø§Ù„Ø£Ù…Ø© ÙˆØ§Ù„Ù‚ÙŠÙ… Ø§Ù„Ø¯ÙŠÙ…Ù‚Ø±Ø§Ø·ÙŠØ© ÙˆØ§Ù„Ø®Ø¯Ù…Ø© Ø§Ù„Ø¹Ø³ÙƒØ±ÙŠØ© ÙˆØ§Ù„ØªÙ‚Ø§Ù„ÙŠØ¯ Ø§Ù„Ø«Ù‚Ø§ÙÙŠØ©. ØªØ¤Ø«Ø± Ù‡Ø°Ù‡ Ø§Ù„Ø¹Ø·Ù„Ø§Øª Ø¹Ù„Ù‰ Ø§Ù„Ø¹Ù…Ù„ÙŠØ§Øª Ø§Ù„Ø­ÙƒÙˆÙ…ÙŠØ© ÙˆØ§Ù„Ø¬Ø¯Ø§ÙˆÙ„ Ø§Ù„Ù…Ø¯Ø±Ø³ÙŠØ© ÙˆØ§Ù„Ø®Ø¯Ù…Ø§Øª Ø§Ù„Ù…ØµØ±ÙÙŠØ© ÙˆØ§Ù„Ø¹Ø¯ÙŠØ¯ Ù…Ù† Ø£Ù…Ø§ÙƒÙ† Ø§Ù„Ø¹Ù…Ù„ ÙÙŠ Ø¬Ù…ÙŠØ¹ Ø£Ù†Ø­Ø§Ø¡ Ø§Ù„Ø¨Ù„Ø§Ø¯.",
+    "ja": "ç±³å›½ã¯æ¯Žå¹´ã„ãã¤ã‹ã®é€£é‚¦ç¥æ—¥ã‚’å®šã‚ã¦ãŠã‚Šã€ã“ã‚Œã‚‰ã¯å›½ã®æ­´å²ã€æ°‘ä¸»çš„ä¾¡å€¤è¦³ã€è»äº‹å¥‰ä»•ã€æ–‡åŒ–çš„ä¼çµ±ã‚’åæ˜ ã—ã¦ã„ã¾ã™ã€‚ã“ã‚Œã‚‰ã®ç¥æ—¥ã¯ã€å…¨å›½ã®æ”¿åºœé‹å–¶ã€å­¦æ ¡ã‚¹ã‚±ã‚¸ãƒ¥ãƒ¼ãƒ«ã€éŠ€è¡Œã‚µãƒ¼ãƒ“ã‚¹ã€å¤šãã®è·å ´ã«å½±éŸ¿ã‚’ä¸Žãˆã¾ã™ã€‚"
+  },
+  "sections": [
+    {
+      "title": "About United States",
+      "content": "The United States of America (USA), also known as the United States (U.S.) or America, is a country primarily located in North America. It is a federal republic consisting of 50 states and a federal capital district, Washington, D.C. The 48 contiguous states border Canada to the north and Mexico to the south, with the semi-exclave of Alaska in the northwest and the archipelago of Hawaii in the Pacific Ocean. The United States also asserts sovereignty over five major island territories and various uninhabited islands in Oceania and the Caribbean. It is a megadiverse country, with the world's third-largest land area and third-largest population, exceeding 341 million."
+    },
+    {
+      "title": "How U.S. Public Holidays Are Observed",
+      "content": "On federal public holidays, federal government offices are closed, and banks and financial institutions typically close. Schools and many private businesses also observe closures or reduced hours.\n\nSome holidays may be observed on adjacent weekdays if they fall on a weekend (e.g., if a holiday falls on Saturday, it is observed on Friday; if on Sunday, it is observed on Monday)."
+    },
+    {
+      "title": "Why U.S. Public Holidays Matter",
+      "content": "Understanding U.S. public holidays helps with business operations and payroll planning, travel scheduling, and academic deadlines. Both residents and international visitors benefit from knowing when services may be unavailable due to holiday closures."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in United States?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in United States?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in United States?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in United States?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in United States?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

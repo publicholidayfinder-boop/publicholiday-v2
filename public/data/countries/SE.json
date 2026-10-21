@@ -1,0 +1,62 @@
+{
+  "id": "SE",
+  "name": "Sweden",
+  "description": {
+    "en": "Sweden observes a mix of national and regional public holidays that reflect its history, culture, and traditions. These holidays influence work schedules, school terms, travel plans, and the availability of public services."
+  },
+  "sections": [
+    {
+      "title": "About Sweden",
+      "content": "Sweden, formally the Kingdom of Sweden, is a Nordic country located on the Scandinavian Peninsula in Northern Europe. It borders Norway to the west and north, and Finland to the east, and shares a maritime border with Denmark to the south. At 450,295 square kilometres (173,860 sq mi) and with a population of 10.6 million, Sweden is the largest and most populous Nordic country, and is the fifth-largest country in Europe. Its capital and largest city is Stockholm. The population density is 25.5 inhabitants per square kilometre (66/sq mi), and 88% of Swedes reside in urban areas, mostly in the southern and central portions of the country. Sweden's urban areas together cover 1.5% of its land area. Sweden has a diverse climate owing to the length of the country, which ranges from 55°N to 69°N."
+    },
+    {
+      "title": "How Public Holidays Are Observed in Sweden",
+      "content": "On most public holidays in Sweden, government offices, schools, and banks are closed. Many private businesses also close or operate on reduced hours."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Sweden?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Sweden?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Sweden?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Sweden?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Sweden?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}

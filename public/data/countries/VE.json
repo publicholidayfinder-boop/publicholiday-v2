@@ -1,0 +1,70 @@
+{
+  "id": "VE",
+  "name": "Venezuela",
+  "description": {
+    "en": "Venezuela observes a variety of national and religious public holidays that reflect its rich cultural heritage. These holidays significantly affect business operations, government services, and school terms across the nation."
+  },
+  "sections": [
+    {
+      "title": "About Venezuela",
+      "content": "Venezuela, officially the Bolivarian Republic of Venezuela, is a country on the northern coast of South America, consisting of a continental landmass and various islands and islets in the Caribbean Sea. It comprises an area of 912,050 km2 (352,140 sq mi), with a population estimated at 31.8 million in 2025. The capital and largest urban agglomeration is Caracas. The continental territory is bordered on the north by the Caribbean Sea and the Atlantic Ocean, on the west by Colombia, Brazil on the south, Trinidad and Tobago to the north-east, and on the east by Guyana. Venezuela consists of 23 states, the Capital District, and federal dependencies covering Venezuela's offshore islands. Venezuela is among the most urbanized countries in Latin America; the vast majority of Venezuelans live in the cities of the north, including in the capital."
+    },
+    {
+      "title": "Important Notice",
+      "content": "Public holiday dates and observance rules can change, especially when holidays fall on weekends. Always confirm critical dates with official Venezuela government sources when planning travel, payroll, or business operations."
+    },
+    {
+      "title": "How Venezuela's Public Holidays Are Observed",
+      "content": "On most public and bank holidays:\n\nBanks and government offices are closed.\nSchools are closed.\nSome businesses operate reduced hours.\nPublic transport and retail services may run modified schedules.\nPrivate businesses are not legally required to close but often adjust operating hours."
+    },
+    {
+      "title": "Why Venezuela's Public Holidays Matter",
+      "content": "Understanding Venezuela's public holidays helps with:\n\nBusiness and payroll planning.\nSchool and academic scheduling.\nTravel and accommodation planning.\nAvoiding service disruptions.\nBoth residents and visitors benefit from knowing when closures and peak travel periods are likely."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": {
+            "en": "Are all public holidays observed nationwide in Venezuela?"
+          },
+          "a": {
+            "en": "While many holidays are national, some observances may be limited to specific regions, states, or territories."
+          }
+        },
+        {
+          "q": {
+            "en": "Do businesses and stores close on public holidays in Venezuela?"
+          },
+          "a": {
+            "en": "Generally yes. Government offices, banks, and schools are closed. Essential services and some retail sectors may remain open or operate on reduced hours."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if a public holiday falls on a weekend in Venezuela?"
+          },
+          "a": {
+            "en": "In many cases, if a national holiday falls on a Saturday or Sunday, the observance is moved to the following Monday, though this depends on specific local laws and the holiday in question."
+          }
+        },
+        {
+          "q": {
+            "en": "Are public transport services affected by holidays in Venezuela?"
+          },
+          "a": {
+            "en": "Yes, public transportation often runs on a reduced Sunday or holiday schedule during national public holidays."
+          }
+        },
+        {
+          "q": {
+            "en": "Are employees entitled to paid time off on public holidays in Venezuela?"
+          },
+          "a": {
+            "en": "Most full-time employees are legally entitled to a paid day off on national public holidays. Those who are required to work are typically eligible for premium pay or a substitute day off."
+          }
+        }
+      ]
+    }
+  ]
+}
