@@ -23,7 +23,8 @@ export default function SearchPage() {
                 const res = await fetch('/data/holidays.json');
                 if (res.ok) {
                     const data = await res.json();
-                    setAllHolidays(data);
+                    const holidayList = Array.isArray(data) ? data : (data?.holidays || []);
+                    setAllHolidays(holidayList);
                 }
             } catch (err) {
                 console.error('Failed to load holidays for search', err);
@@ -64,10 +65,13 @@ export default function SearchPage() {
         );
 
         // Filter holidays (Limit to 50 to avoid rendering issues)
-        const mHolidays = allHolidays
+        const holidaysList = Array.isArray(allHolidays) ? allHolidays : (allHolidays?.holidays || []);
+        const mHolidays = holidaysList
             .filter(h => 
-                h.name.toLowerCase().includes(q) || 
-                (h.type && h.type.toLowerCase().includes(q))
+                h && h.name && (
+                    h.name.toLowerCase().includes(q) || 
+                    (h.type && typeof h.type === 'string' && h.type.toLowerCase().includes(q))
+                )
             )
             .slice(0, 50);
 

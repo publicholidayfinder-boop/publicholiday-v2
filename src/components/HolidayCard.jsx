@@ -50,7 +50,7 @@ export default function HolidayCard({ holiday }) {
     const [reminded, setReminded] = useState(false);
 
     const formatDate = (date) => {
-        const d = new Date(date);
+        const d = new Date(date + (date && typeof date === 'string' && !date.includes('T') ? 'T12:00:00' : ''));
         return d.toLocaleDateString(i18n.language, {
             weekday: 'long',
             year: 'numeric',

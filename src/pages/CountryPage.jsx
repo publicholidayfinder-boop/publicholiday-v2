@@ -490,7 +490,7 @@ export default function CountryPage() {
                                             </tr>
                                         ) : (
                                             (mobileExpanded ? displayedHolidays : displayedHolidays.slice(0, typeof window !== 'undefined' && window.innerWidth < 640 && !window.matchMedia('print').matches ? 5 : displayedHolidays.length)).map((holiday, idx) => {
-                                                const d = new Date(holiday.date);
+                                                const d = new Date(holiday.date + (holiday.date && !holiday.date.includes('T') ? 'T12:00:00' : ''));
                                                 const dayFormatted = !isNaN(d.getTime())
                                                     ? d.toLocaleDateString('en-US', { day: 'numeric', month: 'long' })
                                                     : holiday.date;
