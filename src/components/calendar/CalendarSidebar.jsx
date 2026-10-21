@@ -332,26 +332,34 @@ export default function CalendarSidebar() {
                                 PDF / PNG export only
                             </span>
                         </div>
-                        <div className="grid grid-cols-2 gap-2">
+                        <div className="grid grid-cols-3 gap-1.5">
                             <button
                                 onClick={() => setPaperSize('A4')}
-                                className={`py-1.5 px-3 rounded-lg text-xs font-semibold ${
-                                    paperSize === 'A4' ? 'bg-primary-600 text-white' : 'bg-slate-900 text-slate-400 border border-slate-700'
+                                className={`py-1.5 px-2 rounded-lg text-xs font-semibold transition-all ${
+                                    paperSize === 'A4' ? 'bg-primary-600 text-white' : 'bg-slate-900 text-slate-400 border border-slate-700 hover:border-slate-500'
                                 }`}
                             >
-                                A4 (Global)
+                                A4 (Standard)
+                            </button>
+                            <button
+                                onClick={() => setPaperSize('A3')}
+                                className={`py-1.5 px-2 rounded-lg text-xs font-semibold transition-all ${
+                                    paperSize === 'A3' ? 'bg-primary-600 text-white' : 'bg-slate-900 text-slate-400 border border-slate-700 hover:border-slate-500'
+                                }`}
+                            >
+                                A3 (Poster)
                             </button>
                             <button
                                 onClick={() => setPaperSize('Letter')}
-                                className={`py-1.5 px-3 rounded-lg text-xs font-semibold ${
-                                    paperSize === 'Letter' ? 'bg-primary-600 text-white' : 'bg-slate-900 text-slate-400 border border-slate-700'
+                                className={`py-1.5 px-2 rounded-lg text-xs font-semibold transition-all ${
+                                    paperSize === 'Letter' ? 'bg-primary-600 text-white' : 'bg-slate-900 text-slate-400 border border-slate-700 hover:border-slate-500'
                                 }`}
                             >
                                 Letter (US)
                             </button>
                         </div>
                         <p className="text-[10px] text-slate-500 mt-1.5 px-0.5">
-                            A4 = 297×210mm · Letter = 8.5×11in · Preview size is unchanged
+                            A4 = 297×210mm · A3 = 420×297mm · Letter = 8.5×11in
                         </p>
                     </div>
 

@@ -31,7 +31,7 @@ export const handleExportPDF = async ({ calendarRef, orientation, paperSize, tem
         const exportWidth = calendarRef.current.offsetWidth || 1123;
         const exportHeight = calendarRef.current.offsetHeight || 794;
         const canvas = await html2canvas(calendarRef.current, {
-            scale: 2,
+            scale: paperSize === 'A3' ? 2.5 : 2,
             useCORS: true,
             logging: false,
             backgroundColor: template === 'dark' ? '#0f172a' : '#ffffff',
@@ -54,7 +54,7 @@ export const handleExportPDF = async ({ calendarRef, orientation, paperSize, tem
         const imgData = canvas.toDataURL('image/png');
         
         const pdfOrientation = orientation === 'landscape' ? 'l' : 'p';
-        const pdfSize = paperSize === 'Letter' ? 'letter' : 'a4';
+        const pdfSize = paperSize === 'Letter' ? 'letter' : paperSize === 'A3' ? 'a3' : 'a4';
         const pdf = new jsPDF(pdfOrientation, 'mm', pdfSize);
         
         const pdfWidth = pdf.internal.pageSize.getWidth();
